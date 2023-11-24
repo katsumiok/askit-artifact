@@ -1,0 +1,1 @@
+{"llm_time":40708,"errors":[],"completion":null,"reason":"","result":"Success","id":613,"question":"A Reddit group has 1000 members. If each member posts an average of 3 posts per day, what's the total number of posts that the group will have in March?","answer":93000,"examples":[{"input":{"x1":1000,"x2":3},"output":93000}]}

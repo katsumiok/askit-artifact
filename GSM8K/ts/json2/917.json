@@ -1,0 +1,1 @@
+{"llm_time":43208,"errors":[],"completion":null,"reason":"","result":"Success","id":917,"question":"Kira bought 3 apples, 5 bananas and 6 oranges at the grocery store. Lola ate 2 pieces of the fruit. How many pieces are left?","answer":12,"examples":[{"input":{"x1":3,"x2":5,"x3":6,"x4":2},"output":12}]}

@@ -1,0 +1,1 @@
+{"id": "bulgarian-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Bulgarian language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "\u0438\u0437\u0442\u0438\u043d\u0430"}], "output": "t.bool"}, "ideal": "N", "checked": false}

@@ -1,0 +1,1 @@
+{"id": "next-val-series.dev.simple-v0", "example": {"input": [{"role": "system", "content": "Given a series of numbers, predict the next number in the sequence. The answer should contain only one number, which will be the predicted number."}, {"role": "user", "content": "16 25 36 49 64 81 100 121 144 169"}], "output": "t.int"}, "ideal": "196", "checked": false}

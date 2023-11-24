@@ -1,0 +1,1 @@
+{"llm_time":45042,"errors":[],"completion":null,"reason":"","result":"Success","id":372,"question":"Hallie had dance practice for 1 hour on Tuesdays and 2 hours on Thursdays.  On Saturdays, she had dance practice that lasted twice as long as Tuesday's night class.  How many hours a week did she have dance practice?","answer":5,"examples":[{"input":{"x1":1,"x2":2},"output":5}]}

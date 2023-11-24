@@ -1,0 +1,1 @@
+{"llm_time":19617054417,"errors":[],"completion":null,"reason":"","result":"Success","id":416,"question":"A herd consists of camels and dromedaries. There are 180 heads and 304 bumps. How many dromedaries are there if camels have two humps each and dromedaries have one hump each?","answer":56,"examples":[{"input":{"x1":180,"x2":304},"output":56}]}

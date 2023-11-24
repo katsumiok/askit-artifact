@@ -1,0 +1,1 @@
+{"id": "sort-numbers.s1.simple-v0", "example": {"input": [{"role": "system", "content": "Please sort the following comma-separated numbers in a descending order, ignoring any formatting. Return just a comma-separated list of numbers as well."}, {"role": "user", "content": "1,2,3,4,5"}], "output": "t.str"}, "ideal": "5,4,3,2,1", "checked": false}

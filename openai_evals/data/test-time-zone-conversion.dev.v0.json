@@ -1,0 +1,1 @@
+{"id": "test-time-zone-conversion.dev.v0", "example": {"input": [{"role": "system", "content": "Today is March 31st 2023."}, {"role": "user", "content": "Convert 22:00 CET to PT. Output in 24h format hh:mm, no explanation."}], "output": "t.str"}, "ideal": "13:00", "checked": false}

@@ -1,0 +1,1 @@
+{"id": "benjaminmoore_to_hex.dev.v0", "example": {"input": [{"role": "system", "content": "Convert the benjamin moore color to its hex representation."}, {"role": "user", "content": "Raphael"}], "output": "t.str"}, "ideal": "#593936", "checked": true}

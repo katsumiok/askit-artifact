@@ -1,0 +1,1 @@
+{"llm_time":16175110459,"errors":[],"completion":null,"reason":"","result":"Success","id":77,"question":"If Raymond does half as much laundry as Sarah, and Sarah does 4 times as much laundry as David, calculate the difference in the amount of laundry Raymond and David do if Sarah does 400 pounds of laundry.","answer":100,"examples":[{"input":{"x1":4,"x2":400},"output":100}]}

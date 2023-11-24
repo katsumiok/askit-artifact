@@ -1,0 +1,1 @@
+{"llm_time":43209,"errors":[],"completion":null,"reason":"","result":"Success","id":1300,"question":"Josh runs a car shop and services 3 cars a day.  He is open every day of the week except Sunday and Wednesday.  He gets paid $4 per car.  How much does he make in 2 weeks?","answer":120,"examples":[{"input":{"x1":3,"x2":2},"output":120}]}

@@ -1,0 +1,1 @@
+{"llm_time":9960817542,"errors":[],"completion":null,"reason":"","result":"Success","id":1211,"question":"For one medical dosage, Saanvi had to combine 14 mL of one medicine with 3 times that amount of the second medicine. How many mL of medicine would be in 8 doses?","answer":448,"examples":[{"input":{"x1":14,"x2":3,"x3":8},"output":448}]}

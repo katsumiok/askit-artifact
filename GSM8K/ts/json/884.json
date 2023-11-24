@@ -1,0 +1,1 @@
+{"llm_time":8816040916,"errors":[],"completion":null,"reason":"","result":"Success","id":884,"question":"Argo has 200 toys. He gives 40 toys to Alyssa, 80 to Bonnie, and 30 to Nicky. How many toys does Argo have now?","answer":50,"examples":[{"input":{"x1":200,"x2":40,"x3":80,"x4":30},"output":50}]}

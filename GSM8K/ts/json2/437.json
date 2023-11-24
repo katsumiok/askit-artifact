@@ -1,0 +1,1 @@
+{"llm_time":43208,"errors":[],"completion":null,"reason":"","result":"Success","id":437,"question":"Sitti and Juris bought 34 and 22 oranges, respectively. If both of them decide to share them equally with their 6 other friends, how many oranges will everyone get?","answer":7,"examples":[{"input":{"x1":34,"x2":22,"x3":6},"output":7}]}

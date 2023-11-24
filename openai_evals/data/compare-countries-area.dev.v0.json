@@ -1,0 +1,1 @@
+{"id": "compare-countries-area.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "You are presented with several countries. Answer the name of the country with the largest area among the given countries. Russia, Canada, United States, Brazil"}], "output": "t.str"}, "ideal": "Russia", "checked": true}

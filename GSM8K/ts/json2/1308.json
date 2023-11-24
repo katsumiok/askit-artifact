@@ -1,0 +1,1 @@
+{"llm_time":40375,"errors":[],"completion":null,"reason":"","result":"Success","id":1308,"question":"If there are 10 eggs in a basket, and there are twice as many eggs in a second basket, how many eggs are in both baskets put together?","answer":30,"examples":[{"input":{"x1":10},"output":30}]}

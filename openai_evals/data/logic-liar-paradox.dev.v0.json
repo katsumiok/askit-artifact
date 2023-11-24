@@ -1,0 +1,1 @@
+{"id": "logic-liar-paradox.dev.v0", "example": {"input": [{"role": "system", "content": "Is the statement \"This sentence is true\" a paradox?"}], "output": "t.bool"}, "ideal": "No, \"This sentence is true\" is not a paradox; it is a tautology.", "checked": false}

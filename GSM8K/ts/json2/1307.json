@@ -1,0 +1,1 @@
+{"llm_time":45125,"errors":[],"completion":null,"reason":"","result":"Success","id":1307,"question":"James is putting together 4 tables.  Each table has 4 legs and each leg needs 2 screws.  He has 40 screws.  How many screws will he have left over?","answer":8,"examples":[{"input":{"x1":4,"x2":4,"x3":2,"x4":40},"output":8}]}

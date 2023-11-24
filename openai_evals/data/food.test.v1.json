@@ -1,0 +1,1 @@
+{"id": "food.test.v1", "example": {"input": [{"role": "system", "content": "I want you to act as a gastronomer. Do not explain the answer you wrote. Answer Yes or No only."}, {"role": "user", "content": "Is the following string a food item or related to food? 100 grand bar"}], "output": "t.bool"}, "ideal": "Yes", "checked": false}

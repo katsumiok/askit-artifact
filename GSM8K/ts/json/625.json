@@ -1,0 +1,1 @@
+{"llm_time":8742092292,"errors":[],"completion":null,"reason":"","result":"Success","id":625,"question":"Arianna plants a garden that has 10 rows of flowers with 20 flowers in each row. Currently, only 4/5 of the planted flowers have bloomed. How many flowers in Arianna's garden have bloomed?","answer":160,"examples":[{"input":{"x1":10,"x2":20},"output":160}]}

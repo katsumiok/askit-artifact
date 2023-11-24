@@ -1,0 +1,1 @@
+{"llm_time":43667,"errors":[],"completion":null,"reason":"","result":"Success","id":1157,"question":"Carl has a cane that is half as long as he is tall.  Carl is one foot taller than his brother, Ned.  And Ned is two feet shorter than his cousin, Isabel.  If Isabel is 7 feet tall, how long is Carl's cane, in feet?","answer":3,"examples":[{"input":{"x1":7},"output":3}]}

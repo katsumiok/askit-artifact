@@ -1,0 +1,1 @@
+{"id": "greek-vocabulary.dev.v0", "example": {"input": [{"role": "system", "content": "You will be given a single word. Does this word exist in the Greek language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "\u03b1\u03b3\u03b1\u03bb\u03bb\u03af\u03b1\u03c3\u03b7"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

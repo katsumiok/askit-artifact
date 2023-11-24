@@ -1,0 +1,1 @@
+{"llm_time":8400805375,"errors":[],"completion":null,"reason":"","result":"Success","id":1091,"question":"An apple orchard sells apples in bags of 10. The orchard sold a total of 2000 apples one day. How much did an orchard earn for selling this at $5 per bag?","answer":1000,"examples":[{"input":{"x1":2000},"output":1000}]}

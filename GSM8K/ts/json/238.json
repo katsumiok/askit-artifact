@@ -1,0 +1,1 @@
+{"llm_time":5295318791,"errors":[],"completion":null,"reason":"","result":"Success","id":238,"question":"Mary is two years younger than Joan, who is five years older than Jessa. If Jessa is 20 years old, what is the sum of the ages of the three girls?","answer":68,"examples":[{"input":{"x1":20},"output":68}]}

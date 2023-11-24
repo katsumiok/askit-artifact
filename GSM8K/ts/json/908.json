@@ -1,0 +1,1 @@
+{"llm_time":8150274500,"errors":[],"completion":null,"reason":"","result":"Success","id":908,"question":"Dean has 30 marbles. He gives 1/5  of them to Jamie and gives 10 to Donald. How many marbles are left for Dean?","answer":14,"examples":[{"input":{"x1":30,"x2":10},"output":14}]}

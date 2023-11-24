@@ -1,0 +1,1 @@
+{"llm_time":15035317584,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":544,"question":"Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?","answer":80,"examples":[{"input":{"x1":100,"x2":4},"output":80}]}

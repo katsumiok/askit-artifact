@@ -1,0 +1,1 @@
+{"llm_time":41917,"errors":[],"completion":null,"reason":"","result":"Success","id":1224,"question":"It rained 2 inches on Monday and is expected to rain 1 more inch than twice of Monday’s total on Tuesday. How many inches of rain will there be on Tuesday?","answer":5,"examples":[{"input":{"x1":2,"x2":1},"output":5}]}

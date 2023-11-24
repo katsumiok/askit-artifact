@@ -1,0 +1,1 @@
+{"llm_time":10544298416,"errors":[],"completion":null,"reason":"","result":"Success","id":646,"question":"Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?","answer":79,"examples":[{"input":{"x1":12,"x2":10},"output":79}]}

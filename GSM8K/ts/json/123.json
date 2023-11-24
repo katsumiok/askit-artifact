@@ -1,0 +1,1 @@
+{"llm_time":12078834542,"errors":[],"completion":null,"reason":"","result":"Success","id":123,"question":"Rosie can run 10 miles per hour for 3 hours. After that, she runs 5 miles per hour. How many miles can she run in 7 hours?","answer":50,"examples":[{"input":{"x1":10,"x2":3,"x3":5,"x4":7},"output":50}]}

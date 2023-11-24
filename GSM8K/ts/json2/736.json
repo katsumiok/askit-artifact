@@ -1,0 +1,1 @@
+{"llm_time":43958,"errors":[],"completion":null,"reason":"","result":"Success","id":736,"question":"Boris has 100 apples. Beck has 23 fewer apples than Boris. If Boris gives Beck 10 apples, how many fewer apples does Beck have than Boris now?","answer":3,"examples":[{"input":{"x1":100,"x2":23,"x3":10},"output":3}]}

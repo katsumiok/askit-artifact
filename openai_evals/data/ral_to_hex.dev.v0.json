@@ -1,0 +1,1 @@
+{"id": "ral_to_hex.dev.v0", "example": {"input": [{"role": "system", "content": "Convert RAL color code to its hex representation."}, {"role": "user", "content": "RAL 1000"}], "output": "t.str"}, "ideal": "#BEBD7F", "checked": false}

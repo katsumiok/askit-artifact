@@ -1,0 +1,1 @@
+{"id": "which-is-heavier.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Is 5 pounds of manganese heavier than 20 pounds of hydrogen? Answer Yes or No"}], "output": "t.bool"}, "ideal": "No", "checked": false}

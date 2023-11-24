@@ -1,0 +1,1 @@
+{"llm_time":41125,"errors":[],"completion":null,"reason":"","result":"Success","id":71,"question":"Kelian has two recipes for preparing dishes, one having 20 instructions and the second one having twice as many instructions as the first one. How many instructions does Kelian have to read to prepare the two dishes?","answer":60,"examples":[{"input":{"x1":20},"output":60}]}

@@ -1,0 +1,1 @@
+{"llm_time":7242048708,"errors":[],"completion":null,"reason":"","result":"Success","id":599,"question":"A pet store currently has 5 dogs, 2 cats, and 10 birds. How many legs in total do the pets in the store have?","answer":48,"examples":[{"input":{"x1":5,"x2":2,"x3":10},"output":48}]}

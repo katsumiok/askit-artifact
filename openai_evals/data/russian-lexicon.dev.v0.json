@@ -1,0 +1,1 @@
+{"id": "russian-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Russian language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "\u0410\u0437\u044f\u043c"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

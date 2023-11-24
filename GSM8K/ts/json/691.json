@@ -1,0 +1,1 @@
+{"llm_time":22979027125,"errors":[],"completion":null,"reason":"","result":"Success","id":691,"question":"John brings his dog to the vet. His dog needs 2 vaccines, which are $20 each, and a heartworm check. The heartworm check is 60% of his total bill. If he brought $125 with him, how much does he leave with?","answer":25,"examples":[{"input":{"x1":2},"output":25}]}

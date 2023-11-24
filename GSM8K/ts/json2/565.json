@@ -1,0 +1,1 @@
+{"llm_time":50125,"errors":[],"completion":null,"reason":"","result":"Success","id":565,"question":"Cody and Trevor had 12 sandwiches. Cody ate a third of the sandwiches, and Trevor ate a quarter of the sandwiches. How many sandwiches are left?","answer":5,"examples":[{"input":{"x1":12},"output":5}]}

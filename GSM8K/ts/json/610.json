@@ -1,0 +1,1 @@
+{"llm_time":6942309375,"errors":[],"completion":null,"reason":"","result":"Failed","id":610,"question":"It costs $194 per meter to repave a street. Monica's street is 150 meters long. How much more does it cost to repave Lewis' street, which is 490 meters long?","answer":65960,"examples":[{"input":{"x1":150,"x2":490},"output":65960}]}

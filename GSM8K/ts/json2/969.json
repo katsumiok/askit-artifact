@@ -1,0 +1,1 @@
+{"llm_time":54750,"errors":[],"completion":null,"reason":"","result":"Success","id":969,"question":"John decides to buy new phones for him, his 2 kids, and his wife.  Each phone after the first 2 is half price.  If the phone price is $600 how much did he pay for them all?","answer":1800,"examples":[{"input":{"x1":2,"x2":2},"output":1800}]}

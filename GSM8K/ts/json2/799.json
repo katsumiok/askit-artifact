@@ -1,0 +1,1 @@
+{"llm_time":45292,"errors":[],"completion":null,"reason":"","result":"Success","id":799,"question":"A loaf of bread at the bakery costs $2. Bagels cost $1 each. How much more do 3 loaves of bread cost than 2 bagels?","answer":4,"examples":[{"input":{"x1":3,"x2":2},"output":4}]}

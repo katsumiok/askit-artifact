@@ -1,0 +1,1 @@
+{"llm_time":9834788750,"errors":[],"completion":null,"reason":"","result":"Success","id":421,"question":"There were 50 cats on a rock. Four boats came and carried away 5 cats each, and later, 3/5 of the remaining cats ran after a mouse they'd seen. How many cats were left on the rock?","answer":12,"examples":[{"input":{"x1":50,"x2":5},"output":12}]}

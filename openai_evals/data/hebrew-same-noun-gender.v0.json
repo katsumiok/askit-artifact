@@ -1,0 +1,1 @@
+{"id": "hebrew-same-noun-gender.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with two Hebrew nouns. Do these nouns have the same grammatical gender? Answer Y or N, nothing else."}, {"role": "user", "content": "\u05db\u05d5\u05d1\u05e2, \u05db\u05ea\u05e3"}], "output": "t.bool"}, "ideal": ["N"], "checked": false}

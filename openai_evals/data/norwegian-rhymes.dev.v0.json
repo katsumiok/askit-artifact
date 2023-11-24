@@ -1,0 +1,1 @@
+{"id": "norwegian-rhymes.dev.v0", "example": {"input": [{"role": "system", "content": "You will be given a pair of words. Determine if they rhyme in Norwegian Bokm\u00e5l. If they do, reply Yes. Otherwise, reply No."}, {"role": "user", "content": "p\u00f8lse, f\u00f8lelse"}], "output": "t.bool"}, "ideal": "No", "checked": false}

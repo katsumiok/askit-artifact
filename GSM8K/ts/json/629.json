@@ -1,0 +1,1 @@
+{"llm_time":14635002417,"errors":[],"completion":null,"reason":"","result":"Success","id":629,"question":"James gets a job selling used cars.  He sold 10 cars that cost $25,000 each.  The company paid 30% of that price to acquire the cars.  He got a 10% commission on the profits.  How much did he make?","answer":17500,"examples":[{"input":{"x1":10},"output":17500}]}

@@ -1,0 +1,1 @@
+{"llm_time":44208,"errors":[],"completion":null,"reason":"","result":"Success","id":38,"question":"John runs 60 miles a week. He runs 3 days a week.  He runs 3 hours the first day and half as much the other two days he runs.  How fast does he run?","answer":10,"examples":[{"input":{"x1":60,"x2":3,"x3":3},"output":10}]}

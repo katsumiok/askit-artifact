@@ -1,0 +1,1 @@
+{"llm_time":18505970583,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":1100,"question":"Bobby takes a 30 min lunch and 2 15 minutes break per day at the office.  After 5 days, how many hours do his lunches and breaks add up to?","answer":5,"examples":[{"input":{"x1":30,"x2":2,"x3":5},"output":5}]}

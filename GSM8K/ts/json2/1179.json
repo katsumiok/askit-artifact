@@ -1,0 +1,1 @@
+{"llm_time":44042,"errors":[],"completion":null,"reason":"","result":"Success","id":1179,"question":"James has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of James' teeth does the dentist fix?","answer":50,"examples":[{"input":{"x1":30,"x2":4,"x3":7},"output":50}]}

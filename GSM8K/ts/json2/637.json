@@ -1,0 +1,1 @@
+{"llm_time":47417,"errors":[],"completion":null,"reason":"","result":"Success","id":637,"question":"Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?","answer":17,"examples":[{"input":{"x1":4,"x2":5,"x3":3},"output":17}]}

@@ -1,0 +1,1 @@
+{"llm_time":9311964750,"errors":[],"completion":null,"reason":"","result":"Success","id":633,"question":"Bob is 75 miles ahead of Tom, driving 55 miles per hour. Tom is driving 70 miles per hour. How long will it take Tom to catch up with Bob?","answer":5,"examples":[{"input":{"x1":75,"x2":55,"x3":70},"output":5}]}

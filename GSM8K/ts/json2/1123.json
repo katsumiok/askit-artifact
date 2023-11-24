@@ -1,0 +1,1 @@
+{"llm_time":42500,"errors":[],"completion":null,"reason":"","result":"Success","id":1123,"question":"Elijah has one dog that is one-fourth the weight of Kory’s dog and another dog that is half the weight of Kory’s dog. If Kory’s dog is 60 pounds, how much do Elijah and Kory’s dogs weigh altogether, in pounds?","answer":105,"examples":[{"input":{"x1":60},"output":105}]}

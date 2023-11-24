@@ -1,0 +1,1 @@
+{"llm_time":8168295500,"errors":[],"completion":null,"reason":"","result":"Success","id":1085,"question":"A crocodile grows 8 inches long in 4 years. At this rate, how many inches will it grow in 13 years?","answer":26,"examples":[{"input":{"x1":8,"x2":4,"x3":13},"output":26}]}

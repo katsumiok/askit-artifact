@@ -1,0 +1,1 @@
+{"id": "urdu-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in Urdu language? Answer Y or N."}, {"role": "user", "content": "\u0622\u0633\u0627\u067e"}], "output": "t.bool"}, "ideal": "N", "checked": false}

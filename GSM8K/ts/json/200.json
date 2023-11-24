@@ -1,0 +1,1 @@
+{"llm_time":7688603667,"errors":[],"completion":null,"reason":"","result":"Success","id":200,"question":"Baldur gets water from a well. He gets 5 pails of water every morning and 6 pails of water every afternoon. If each pail contains 5 liters of water, how many liters of water does he get every day?","answer":55,"examples":[{"input":{"x1":5,"x2":6,"x3":5},"output":55}]}

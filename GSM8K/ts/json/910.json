@@ -1,0 +1,1 @@
+{"llm_time":8214985750,"errors":[],"completion":null,"reason":"","result":"Success","id":910,"question":"Farmer Brown's farm is 200 acres, and Farmer Smith's farm is 100 acres more than twice that. How many acres do the two farms have, together?","answer":700,"examples":[{"input":{"x1":200,"x2":100},"output":700}]}

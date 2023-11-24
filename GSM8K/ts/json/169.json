@@ -1,0 +1,1 @@
+{"llm_time":5648805750,"errors":[],"completion":null,"reason":"","result":"Failed","id":169,"question":"Pancho walks 20 miles a day. Except on weekends when he walks 10 miles. How many miles does he walk in a week?","answer":120,"examples":[{"input":{"x1":20,"x2":10},"output":120}]}

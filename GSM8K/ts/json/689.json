@@ -1,0 +1,1 @@
+{"llm_time":32592221250,"errors":[],"completion":null,"reason":"","result":"Success","id":689,"question":"Manolo bought five lollipops and four candies that cost $3.20. If each lollipop costs $0.40, how much will 10 lollipops and 10 candies cost him?","answer":7,"examples":[{"input":{"x1":10,"x2":10},"output":7}]}

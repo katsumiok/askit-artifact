@@ -1,0 +1,1 @@
+{"llm_time":50125,"errors":[],"completion":null,"reason":"","result":"Success","id":347,"question":"Davos bought 2 shirts from the mall that cost $30 each. If he bought them with a 40% discount, how much did Davos pay for the 2 shirts?","answer":36,"examples":[{"input":{"x1":2,"x2":2},"output":36}]}

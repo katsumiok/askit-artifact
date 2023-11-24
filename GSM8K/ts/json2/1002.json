@@ -1,0 +1,1 @@
+{"llm_time":49084,"errors":[],"completion":null,"reason":"","result":"Success","id":1002,"question":"Lisa and Peter are selling chocolate bars door to door. Lisa sold three and a half boxes of chocolate bars, and Peter sold four and a half boxes. They sold 64 chocolate bars together. How many chocolate bars are in a box?","answer":8,"examples":[{"input":{"x1":64},"output":8}]}

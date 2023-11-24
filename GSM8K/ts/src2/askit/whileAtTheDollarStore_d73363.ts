@@ -1,0 +1,10 @@
+// Recompilation count: 0
+export function whileAtTheDollarStore_d73363({ x1, x2 }: {
+    x1: number;
+    x2: number;
+}): number {
+        // While at the dollar store, Sloane counts 'x1' customers entering the store. The next day, she counts 'x2' more customers than the first day. If the total number of customers by the third day was 500, how many customers did she count on the third day?
+        const totalCustomersForTwoDays = x1 + (x1+x2);
+        const thirdDayCustomers = 500 - totalCustomersForTwoDays;
+        return thirdDayCustomers;
+    }

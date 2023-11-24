@@ -1,0 +1,1 @@
+{"llm_time":6651077458,"errors":[],"completion":null,"reason":"","result":"Success","id":555,"question":"John plans to save money from working.  He gets paid $2 per hour and works 5 hours a day for 4 days a week.  If he wants to save $80 how many weeks will it take him?","answer":2,"examples":[{"input":{"x1":5,"x2":4},"output":2}]}

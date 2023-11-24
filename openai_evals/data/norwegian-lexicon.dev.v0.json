@@ -1,0 +1,1 @@
+{"id": "norwegian-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Norwegian language? Answer with exactly one letter: Y or N. Do not use punctionation. Do not explain your answer."}, {"role": "user", "content": "Yppal"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

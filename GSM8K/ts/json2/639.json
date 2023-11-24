@@ -1,0 +1,1 @@
+{"llm_time":43709,"errors":[],"completion":null,"reason":"","result":"Success","id":639,"question":"Bob wants to dig a hole 6 feet long by 4 feet wide by 3 feet deep. If it takes him 3 seconds to shovel a cubic foot of earth, how long will it take him to dig the hole?","answer":216,"examples":[{"input":{"x1":6,"x2":4,"x3":3,"x4":3},"output":216}]}

@@ -1,0 +1,1 @@
+{"llm_time":20616134709,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":393,"question":"Carol spends 4 hours writing a song, half that much time recording it, and 90 minutes editing it. What percentage of her total work time did she spend editing?","answer":20,"examples":[{"input":{"x1":4,"x2":90},"output":20}]}

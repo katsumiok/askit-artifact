@@ -1,0 +1,1 @@
+{"llm_time":41667,"errors":[],"completion":null,"reason":"","result":"Success","id":1,"question":"A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?","answer":3,"examples":[{"input":{"x1":2},"output":3}]}

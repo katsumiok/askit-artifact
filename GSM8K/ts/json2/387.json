@@ -1,0 +1,1 @@
+{"llm_time":45875,"errors":[],"completion":null,"reason":"","result":"Success","id":387,"question":"An eraser costs $2 and a pencil costs $3. How much do 6 erasers and 8 pencils cost?","answer":36,"examples":[{"input":{"x1":6,"x2":8},"output":36}]}

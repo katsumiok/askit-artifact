@@ -1,0 +1,1 @@
+{"llm_time":15344215667,"errors":[],"completion":null,"reason":"","result":"Success","id":444,"question":"Movie A was one-fourth the length of Movie B. Movie B was 5 minutes longer than Movie C. Movie C was 1.25 hours. How many minutes long was Movie A?","answer":20,"examples":[{"input":{"x1":5},"output":20}]}

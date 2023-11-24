@@ -1,0 +1,1 @@
+{"llm_time":52084,"errors":[],"completion":null,"reason":"","result":"Success","id":400,"question":"A glass of milk is 8 ounces of milk.  John drinks 2 glasses of milk.  If milk has 3 calories per ounce how many calories did he consume?","answer":48,"examples":[{"input":{"x1":8,"x2":2,"x3":3},"output":48}]}

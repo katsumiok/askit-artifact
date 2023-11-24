@@ -1,0 +1,1 @@
+{"llm_time":50792,"errors":[],"completion":null,"reason":"","result":"Success","id":1242,"question":"Skyler has 100 hats on his hand with the colors red, blue, and white. Half of the hats are red, 3/5 of the remaining hats are blue, and the rest are white. How many white hats does Skyler have?","answer":20,"examples":[{"input":{"x1":100},"output":20}]}

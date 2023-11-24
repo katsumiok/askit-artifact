@@ -1,0 +1,1 @@
+{"llm_time":47083,"errors":[],"completion":null,"reason":"","result":"Success","id":1008,"question":"Matteo traveled at 55 miles per hour for 4 hours. Shandy traveled at 45 miles per hour for 10 hours. How many miles farther did Shandy drive than Matteo?","answer":230,"examples":[{"input":{"x1":55,"x2":4,"x3":45,"x4":10},"output":230}]}

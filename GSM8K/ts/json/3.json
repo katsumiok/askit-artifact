@@ -1,0 +1,1 @@
+{"llm_time":5431387375,"errors":[],"completion":null,"reason":"","result":"Success","id":3,"question":"James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?","answer":540,"examples":[{"input":{"x1":3,"x2":3,"x3":60},"output":540}]}

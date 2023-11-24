@@ -1,0 +1,1 @@
+{"llm_time":5582005334,"errors":[],"completion":null,"reason":"","result":"Failed","id":454,"question":"Marin and his neighbor Nancy each eat 4 apples a day. How many apples do they eat in 30 days?","answer":150,"examples":[{"input":{"x1":4,"x2":30},"output":150}]}

@@ -1,0 +1,1 @@
+{"llm_time":21739844375,"errors":[],"completion":null,"reason":"","result":"Success","id":95,"question":"Out of the 200 Grade 5 students, 2/5 are boys and 2/3 of the girls are in the girl scout. How many girls are not in the girl scout?","answer":40,"examples":[{"input":{"x1":200,"x2":5},"output":40}]}

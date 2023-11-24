@@ -1,0 +1,1 @@
+{"id": "dutch-rhymes.dev.v0", "example": {"input": [{"role": "system", "content": "For each pair of Dutch words, determine whether they rhyme in the Dutch language. If they do, output the word Yes. If not, output the word No."}, {"role": "user", "content": "verliefd, alsjeblieft"}], "output": "t.literal('Yes') | t.literal('No')"}, "ideal": "Yes", "checked": false}

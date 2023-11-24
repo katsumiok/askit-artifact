@@ -1,0 +1,1 @@
+{"llm_time":6877483000,"errors":[],"completion":null,"reason":"","result":"Success","id":607,"question":"The jumbo bottle of shampoo costs $24.00.  The directions say to use 2 pumps of shampoo and this will give you 120 washings.  If Jackie only uses 1 pump per wash, how much will each pump cost, in cents?","answer":10,"examples":[{"input":{"x1":2,"x2":120,"x3":1},"output":10}]}

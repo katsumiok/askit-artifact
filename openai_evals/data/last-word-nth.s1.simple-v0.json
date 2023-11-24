@@ -1,0 +1,1 @@
+{"id": "last-word-nth.s1.simple-v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "What is the 4th word in \"I am a programmer\"? Answer directly with the word, make no additional comment, don't use quotation marks."}], "output": "t.str"}, "ideal": "programmer", "checked": false}

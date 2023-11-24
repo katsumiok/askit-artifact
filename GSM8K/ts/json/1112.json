@@ -1,0 +1,1 @@
+{"llm_time":9249721209,"errors":[],"completion":null,"reason":"","result":"Success","id":1112,"question":"Pierre, Paul, and Jacques bought 12 kg of apples. Peter wants a quarter of that and Paul wants 1/3 of that. How many kilograms will James have left?","answer":5,"examples":[{"input":{"x1":12},"output":5}]}

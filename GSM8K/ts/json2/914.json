@@ -1,0 +1,1 @@
+{"llm_time":48792,"errors":[],"completion":null,"reason":"","result":"Success","id":914,"question":"Jon's car needs a tune-up every 1000 miles.  He drives 100 miles a day for a 30 day month.  How many tune-ups does he need in that time?","answer":3,"examples":[{"input":{"x1":1000,"x2":100,"x3":30},"output":3}]}

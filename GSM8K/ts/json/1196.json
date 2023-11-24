@@ -1,0 +1,1 @@
+{"llm_time":8448435958,"errors":[],"completion":null,"reason":"","result":"Success","id":1196,"question":"Alain's mom bought 5 packs of red pens and also bought twice the amount of black pens than the red. If each pack has 5 pens, how many pens does Alain have?","answer":75,"examples":[{"input":{"x1":5,"x2":5},"output":75}]}

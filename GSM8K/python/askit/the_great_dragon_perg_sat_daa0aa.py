@@ -1,0 +1,5 @@
+# Recompilation count: 0
+def the_great_dragon_perg_sat_daa0aa(x1, x2) -> int:
+    # The great dragon, Perg, sat high atop mount Farbo, breathing fire upon anything within a distance of 'x1' feet.  Polly could throw the gold javelin, the only known weapon that could slay the dragon, for a distance of 'x2' feet, well within the reach of the dragon's flames.  But when Polly held the sapphire gemstone, she could throw the javelin three times farther than when not holding the gemstone. If holding the gemstone, how far outside of the reach of the dragon's flames could Polly stand and still hit the dragon with the gold javelin?
+    # If holding the gemstone, Polly could throw the javelin x2 * 3 feet, so she could stand x2 * 3 - x1 feet outside of the reach of the dragon's flames.
+    return (x2 * 3) - x1

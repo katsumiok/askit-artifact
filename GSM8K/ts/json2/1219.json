@@ -1,0 +1,1 @@
+{"llm_time":43125,"errors":[],"completion":null,"reason":"","result":"Success","id":1219,"question":"John is a carpenter. For his friend Ali, he manufactured 4 wooden tables for $20 each and 2 roof frames for $10 each. How much does Ali have to pay John?","answer":100,"examples":[{"input":{"x1":4,"x2":2},"output":100}]}

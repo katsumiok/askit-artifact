@@ -1,0 +1,1 @@
+{"id": "regex.match.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "will regex pattern '(?P<foo_123' match the string ''? Either answer with 'Yes.' or 'No.'"}], "output": "t.bool"}, "ideal": "No.", "checked": false}

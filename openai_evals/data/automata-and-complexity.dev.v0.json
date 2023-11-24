@@ -1,0 +1,1 @@
+{"id": "automata-and-complexity.dev.v0", "example": {"input": [{"role": "system", "content": "Answer the following problem using theoretical computer science."}, {"role": "user", "content": "Is the following statement true? For any language A, A\u2217 = (A\u2217)\u2217."}], "output": "t.bool"}, "ideal": "{TRUE}", "checked": true}

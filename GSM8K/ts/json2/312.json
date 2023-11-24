@@ -1,0 +1,1 @@
+{"llm_time":46084,"errors":[],"completion":null,"reason":"","result":"Success","id":312,"question":"Trent is 5 years older than Jane, and Jane is 3 years younger than Quinn. If Quinn is 30, how old is Trent?","answer":32,"examples":[{"input":{"x1":5,"x2":3},"output":32}]}

@@ -1,0 +1,1 @@
+{"llm_time":5499166083,"errors":[],"completion":null,"reason":"","result":"Success","id":197,"question":"In the city of Soda, there are exactly 23786 inhabitants. They include 8417 men and 9092 women. The rest of the population is made up of children. How many kids are there in Soda?","answer":6277,"examples":[{"input":{"x1":23786,"x2":8417,"x3":9092},"output":6277}]}

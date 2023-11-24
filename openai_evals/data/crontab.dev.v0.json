@@ -1,0 +1,1 @@
+{"id": "crontab.dev.v0", "example": {"input": [{"role": "system", "content": "Generate a cron expression with 5 fields from the given description. Output the cron expression ONLY and make your answer as short as possible."}, {"role": "user", "content": "At 04:05."}], "output": "t.str"}, "ideal": "5 4 * * *", "checked": false}

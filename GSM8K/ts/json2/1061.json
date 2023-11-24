@@ -1,0 +1,1 @@
+{"llm_time":46792,"errors":[],"completion":null,"reason":"","result":"Success","id":1061,"question":"Betsy and Donovan made a meal together. Betsy's part took 18 minutes longer than Donovan's part. The meal was made in 98 minutes. How many minutes long was Betsy's part?","answer":58,"examples":[{"input":{"x1":18,"x2":98},"output":58}]}

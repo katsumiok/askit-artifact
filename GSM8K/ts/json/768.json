@@ -1,0 +1,1 @@
+{"llm_time":7363786958,"errors":[],"completion":null,"reason":"","result":"Failed","id":768,"question":"In one hour, Ezra read twice as many books as Ahmed. Ezra has read 300 books this hour and decided to read 150 more. How many books have they read altogether?","answer":675,"examples":[{"input":{"x1":300,"x2":150},"output":675}]}

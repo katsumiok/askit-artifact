@@ -1,0 +1,1 @@
+{"id": "iambic-pentameter.dev.v0", "example": {"input": "write 1 line of strict iambic pentameter", "output": "t.str"}, "ideal": null, "checked": false}

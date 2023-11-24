@@ -1,0 +1,1 @@
+{"id": "indonesian_numbers.dev.v0", "example": {"input": [{"role": "system", "content": "Translate Indonesian written number into arabic numerals directly."}, {"role": "user", "content": "Satu"}], "output": "t.int"}, "ideal": "1", "checked": false}

@@ -1,0 +1,1 @@
+{"llm_time":44791,"errors":[],"completion":null,"reason":"","result":"Success","id":345,"question":"A restaurant has 40 tables with 4 legs and 50 tables with 3 legs. Calculate the total number of legs the restaurant's tables have.","answer":310,"examples":[{"input":{"x1":40,"x2":4,"x3":50,"x4":3},"output":310}]}

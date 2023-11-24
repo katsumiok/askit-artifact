@@ -1,0 +1,1 @@
+{"llm_time":44292,"errors":[],"completion":null,"reason":"","result":"Success","id":1024,"question":"Suzanne sold 80 cookies for $1 each and 60 cupcakes for $4 each. She gave her two sisters $10 each for helping her. How much money does she have left from her earnings?","answer":300,"examples":[{"input":{"x1":80,"x2":60},"output":300}]}

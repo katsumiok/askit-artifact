@@ -1,0 +1,1 @@
+{"llm_time":40958,"errors":[],"completion":null,"reason":"","result":"Success","id":761,"question":"Two thirds of Jana's puppies are Pomeranians. One third of the Pomeranians are girls. If there are 6 Pomeranian girls, how many puppies does Jana have?","answer":27,"examples":[{"input":{"x1":6},"output":27}]}

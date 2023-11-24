@@ -1,0 +1,1 @@
+{"llm_time":7113855833,"errors":[],"completion":null,"reason":"","result":"Success","id":699,"question":"There is space for 20 pencils in the box. If there are 4 pencils missing from the box, how many pairs of pencils are in the box?","answer":8,"examples":[{"input":{"x1":20,"x2":4},"output":8}]}

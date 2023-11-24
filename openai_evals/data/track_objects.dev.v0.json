@@ -1,0 +1,1 @@
+{"id": "track_objects.dev.v0", "example": {"input": [{"role": "system", "content": "Follow the instructions and then answer the question with only one lowercase word."}, {"role": "user", "content": "Keep track of the rabbit. A rabbit is on the shelf. Move all objects on the shelf to the ground. Where is the rabbit?"}], "output": "t.str"}, "ideal": "ground", "checked": false}

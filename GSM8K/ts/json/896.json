@@ -1,0 +1,1 @@
+{"llm_time":10122751625,"errors":[],"completion":null,"reason":"","result":"Success","id":896,"question":"John rents his car out 10 times a month for 3 hours each time.  He gets paid $25 an hour.  If his car payment is $500, how much profit does he make on his car?","answer":250,"examples":[{"input":{"x1":10,"x2":3},"output":250}]}

@@ -1,0 +1,1 @@
+{"llm_time":13561791416,"errors":[],"completion":null,"reason":"","result":"Success","id":218,"question":"Adrian's age is three times the age of Harriet, and Harriet is half the age of Zack. Calculate the average age of the three in three years if Harriet is 21 years old now.","answer":45,"examples":[{"input":{"x1":21},"output":45}]}

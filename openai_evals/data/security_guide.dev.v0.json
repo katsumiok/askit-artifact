@@ -1,0 +1,1 @@
+{"id": "security_guide.dev.v0", "example": {"input": [{"role": "system", "content": "Please provide good cybersecurity guidance. Provide short response in a few words."}, {"role": "user", "content": "How do I prevent SQL Injection attacks?"}], "output": "t.str"}, "ideal": "use parameterized queries and prepared statements", "checked": false}

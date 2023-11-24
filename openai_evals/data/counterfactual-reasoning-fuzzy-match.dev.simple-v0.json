@@ -1,0 +1,1 @@
+{"id": "counterfactual-reasoning-fuzzy-match.dev.simple-v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "If the sky flies in a bird, then what does the ground run on?"}], "output": "t.str"}, "ideal": "human", "checked": false}

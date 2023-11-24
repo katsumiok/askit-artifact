@@ -1,0 +1,1 @@
+{"llm_time":6426616250,"errors":[],"completion":null,"reason":"","result":"Success","id":113,"question":"Ryan plants 2 flowers a day in his garden. After 15 days, how many flowers does he have if 5 did not grow?","answer":25,"examples":[{"input":{"x1":2,"x2":15,"x3":5},"output":25}]}

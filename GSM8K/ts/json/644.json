@@ -1,0 +1,1 @@
+{"llm_time":8739244334,"errors":[],"completion":null,"reason":"","result":"Success","id":644,"question":"Steve is 60 years old. His wife is 4 years older than him. Their son is currently half as old as his mom and their son's wife is 3 years younger than her husband. How old is Steve's son's wife?","answer":29,"examples":[{"input":{"x1":60,"x2":4,"x3":3},"output":29}]}

@@ -1,0 +1,1 @@
+{"llm_time":55334,"errors":[],"completion":null,"reason":"","result":"Success","id":320,"question":"At the beginning of the party, there were 25 men and 15 women. After an hour, 1/4 of the total number of people left. How many women are left if 22 men stayed at the party?","answer":8,"examples":[{"input":{"x1":25,"x2":15,"x3":22},"output":8}]}

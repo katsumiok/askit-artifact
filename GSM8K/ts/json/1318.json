@@ -1,0 +1,1 @@
+{"llm_time":8155118875,"errors":[],"completion":null,"reason":"","result":"Success","id":1318,"question":"Henry and 3 of his friends order 7 pizzas for lunch. Each pizza is cut into 8 slices. If Henry and his friends want to share the pizzas equally, how many slices can each of them have?","answer":14,"examples":[{"input":{"x1":3,"x2":7,"x3":8},"output":14}]}

@@ -1,0 +1,1 @@
+{"llm_time":46500,"errors":[],"completion":null,"reason":"","result":"Success","id":92,"question":"Emily has 4 kids named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 and is 1 year younger than Corey, how old is Jackson?","answer":4,"examples":[{"input":{"x1":4,"x2":5,"x3":2,"x4":10,"x5":1},"output":4}]}

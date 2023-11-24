@@ -1,0 +1,1 @@
+{"id": "belarusian-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in Belarusian language?"}, {"role": "user", "content": "\u0430\u0431\u0432\u044f\u0437\u043a\u043e\u044e"}], "output": "t.bool"}, "ideal": "N", "checked": true}

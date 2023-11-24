@@ -1,0 +1,1 @@
+{"llm_time":10112298666,"errors":[],"completion":null,"reason":"","result":"Success","id":975,"question":"Richard, Jerry, and Robert are going to share 60 cherries. If Robert has 30 cherries, and has 10 more than Richard, how many more cherries does Robert have than Jerry?","answer":20,"examples":[{"input":{"x1":60,"x2":30,"x3":10},"output":20}]}

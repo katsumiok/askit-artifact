@@ -1,0 +1,1 @@
+{"llm_time":45250,"errors":[],"completion":null,"reason":"","result":"Success","id":712,"question":"Ginger and Amy both start with 100 pieces of Halloween candy. Ginger eats 4 pieces a day and Amy eats 3 pieces a day. How much more candy does Amy have after two weeks?","answer":14,"examples":[{"input":{"x1":100,"x2":4,"x3":3},"output":14}]}

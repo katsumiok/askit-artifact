@@ -1,0 +1,1 @@
+{"id": "connect4.s1.v1", "example": {"input": [{"role": "system", "content": "Imagine a 6 tall, 7 long connect4 board where 0 is empty spaces, X is a player and Y is another player. Return X or Y if they won. \nY000000\nX000000\nY000X00\nY0Y0XYX\nYYYXXXY\nXXYXXXY"}], "output": "t.union(t.literal('X'), t.literal('Y'))"}, "ideal": "X", "checked": true}

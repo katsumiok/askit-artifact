@@ -1,0 +1,1 @@
+{"llm_time":52875,"errors":[],"completion":null,"reason":"","result":"Success","id":1141,"question":"If Chester eats 3 eggs a day for 30 days and then increases it to 5 eggs a day for 30 days, how many dozens of eggs will Chester need for 60 days?","answer":20,"examples":[{"input":{"x1":3,"x2":30,"x3":5,"x4":30,"x5":60},"output":20}]}

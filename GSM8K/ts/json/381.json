@@ -1,0 +1,1 @@
+{"llm_time":18189176209,"errors":[],"completion":null,"reason":"","result":"Success","id":381,"question":"Cho hiked 14 kilometers per hour for 8 hours. Chloe hiked 9 kilometers per hour and stopped after 5 hours. How many kilometers farther did Cho hike?","answer":67,"examples":[{"input":{"x1":14,"x2":8,"x3":9,"x4":5},"output":67}]}

@@ -1,0 +1,1 @@
+{"llm_time":6744963667,"errors":[],"completion":null,"reason":"","result":"Failed","id":952,"question":"Vince can staple 30 reports every 15 minutes.  If he was stapling reports from 8:00 AM until 11:00 PM, how many reports did he staple altogether?","answer":360,"examples":[{"input":{"x1":30,"x2":15},"output":360}]}

@@ -1,0 +1,1 @@
+{"llm_time":9640616708,"errors":[],"completion":null,"reason":"","result":"Success","id":196,"question":"200 pounds of carrots are to be distributed to 40 restaurants in a certain city. Each restaurant is to receive 2 pounds of carrots. How many pounds of carrots will not be used?","answer":120,"examples":[{"input":{"x1":40,"x2":2},"output":120}]}

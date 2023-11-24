@@ -1,0 +1,1 @@
+{"llm_time":45167,"errors":[],"completion":null,"reason":"","result":"Success","id":1063,"question":"James gets 80 emails a day.  20% of those emails don't require any response.  He responds to the rest of them.  How many emails does he respond to in a 5 day work week?","answer":320,"examples":[{"input":{"x1":80,"x2":5},"output":320}]}

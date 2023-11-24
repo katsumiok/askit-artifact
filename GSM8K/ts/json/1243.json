@@ -1,0 +1,1 @@
+{"llm_time":11625492791,"errors":[],"completion":null,"reason":"","result":"Success","id":1243,"question":"Archie buys beef jerky that comes 30 sticks to a bag and costs $18.00 per bag.  If Archie buys 1 bag while they're $3.00 off a bag, how much will each stick of jerky cost in cents?","answer":50,"examples":[{"input":{"x1":30,"x2":1},"output":50}]}

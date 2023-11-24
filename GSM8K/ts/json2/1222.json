@@ -1,0 +1,1 @@
+{"llm_time":44167,"errors":[],"completion":null,"reason":"","result":"Success","id":1222,"question":"Luke is buying fabric for new curtains. There are five windows. Each window is 35 inches wide and Luke needs to buy fabric equal to 2 times the total width of the windows. How much fabric should he buy?","answer":350,"examples":[{"input":{"x1":35,"x2":2},"output":350}]}

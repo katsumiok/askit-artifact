@@ -1,0 +1,1 @@
+{"llm_time":17320727917,"errors":[],"completion":null,"reason":"","result":"Success","id":500,"question":"Together Lily, David, and Bodhi collected 43 insects. Lily found 7 more than David. David found half of what Bodhi found. How many insects did Lily find?","answer":16,"examples":[{"input":{"x1":43,"x2":7},"output":16}]}

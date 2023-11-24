@@ -1,0 +1,1 @@
+{"llm_time":47042,"errors":[],"completion":null,"reason":"","result":"Success","id":318,"question":"If a classroom has 3 times as many girls as they do boys, and 1/10 as many nongendered children as they do boys, and the classroom has 30 boys.  How many total children does it have?","answer":123,"examples":[{"input":{"x1":3,"x2":30},"output":123}]}

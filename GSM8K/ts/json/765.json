@@ -1,0 +1,1 @@
+{"llm_time":4914233959,"errors":[],"completion":null,"reason":"","result":"Success","id":765,"question":"George has 45% more pears than bananas. If George has 200 bananas, how many fruits does George have?","answer":490,"examples":[{"input":{"x1":200},"output":490}]}

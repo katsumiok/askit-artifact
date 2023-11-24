@@ -1,0 +1,1 @@
+{"llm_time":46958,"errors":[],"completion":null,"reason":"","result":"Success","id":190,"question":"John collects peaches for 3 hours.  He can collect 2 peaches a minute.  How many peaches does he collect?","answer":360,"examples":[{"input":{"x1":3,"x2":2},"output":360}]}

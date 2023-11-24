@@ -1,0 +1,1 @@
+{"llm_time":54416,"errors":[],"completion":null,"reason":"","result":"Success","id":532,"question":"Jame will turn 27 in 5 years.  In 8 years his cousin will be 5 years younger than twice his age.  How many years separate the age of the two now?","answer":25,"examples":[{"input":{"x1":27,"x2":5,"x3":8,"x4":5},"output":25}]}

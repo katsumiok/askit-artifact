@@ -1,0 +1,1 @@
+{"llm_time":41167,"errors":[],"completion":null,"reason":"","result":"Success","id":1113,"question":"The temperature was 2 degrees Celsius. It dropped 8 degrees Celsius overnight and then increased 3 degrees Celsius in the morning. What was the temperature, in degrees Celsius, in the morning?","answer":-3,"examples":[{"input":{"x1":2,"x2":8,"x3":3},"output":-3}]}

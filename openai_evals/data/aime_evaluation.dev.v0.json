@@ -1,0 +1,1 @@
+{"id": "aime_evaluation.dev.v0", "example": {"input": [{"role": "system", "content": "All answers are integers ranging from 000 to 999, inclusive. "}, {"role": "user", "content": "Find the sum of all positive two-digit integers that are divisible by each of their digits."}], "output": "t.int"}, "ideal": "630", "checked": true}

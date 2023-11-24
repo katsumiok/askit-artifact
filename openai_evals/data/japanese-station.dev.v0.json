@@ -1,0 +1,1 @@
+{"id": "japanese-station.dev.v0", "example": {"input": [{"role": "system", "content": "Answer the station name between the given two stations on '\u6771\u5c71\u7dda'. Answer just the station name without \u99c5 and do not output any other output at all."}, {"role": "user", "content": "\u4e00\u793e and \u672c\u90f7"}], "output": "t.str"}, "ideal": "\u4e0a\u793e", "checked": false}

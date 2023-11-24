@@ -1,0 +1,1 @@
+{"id": "sindarin-fluency.dev.v0", "example": {"input": [{"role": "system", "content": "Translate a word from the Sindarin language (from Tolkien's works) to English. Respond only with the translated word or phrase, or 'none' if there is no translation."}, {"role": "user", "content": "ablad"}], "output": "t.str"}, "ideal": ["prohibition", "refusal"], "checked": false}

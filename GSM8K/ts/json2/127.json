@@ -1,0 +1,1 @@
+{"llm_time":47792,"errors":[],"completion":null,"reason":"","result":"Success","id":127,"question":"After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?","answer":120,"examples":[{"input":{"x1":20,"x2":50},"output":120}]}

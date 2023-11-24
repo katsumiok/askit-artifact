@@ -1,0 +1,1 @@
+{"llm_time":7514394750,"errors":[],"completion":null,"reason":"","result":"Success","id":519,"question":"Royce takes 40 minutes more than double Rob to shingle a house. If Rob takes 2 hours, how many minutes does Royce take?","answer":280,"examples":[{"input":{"x1":40,"x2":2},"output":280}]}

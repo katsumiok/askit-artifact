@@ -1,0 +1,1 @@
+{"llm_time":6758292417,"errors":[],"completion":null,"reason":"","result":"Success","id":68,"question":"There are twice as many boys as girls at Dr. Wertz's school. If there are 60 girls and 5 students to every teacher, how many teachers are there?","answer":36,"examples":[{"input":{"x1":60,"x2":5},"output":36}]}

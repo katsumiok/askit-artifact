@@ -1,0 +1,1 @@
+{"id": "portuguese-syllable-count.dev.v0", "example": {"input": [{"role": "system", "content": "Voc\u00ea l\u00ea palavras e retorna o n\u00famero de s\u00edlabas que ela cont\u00e9m. Retorne apenas o n\u00famero de s\u00edlabas em algarismos e nada mais."}, {"role": "user", "content": "abacate"}], "output": "t.int"}, "ideal": "4", "checked": false}

@@ -1,0 +1,1 @@
+{"llm_time":14278296834,"errors":[],"completion":null,"reason":"","result":"Success","id":145,"question":"John has 10 hectares of a pineapple field. There are 100 pineapples per hectare. John can harvest his pineapples every 3 months. How many pineapples can John harvest within a year?","answer":4000,"examples":[{"input":{"x1":10,"x2":100,"x3":3},"output":4000}]}

@@ -1,0 +1,1 @@
+{"llm_time":48917,"errors":[],"completion":null,"reason":"","result":"Success","id":322,"question":"Jam has three boxes full of pencils and 2 loose pencils which give a total of 26 pencils. If her sister, Meg, has 46 pencils, how many boxes do Jam and Meg need to store all their pencils?","answer":9,"examples":[{"input":{"x1":2,"x2":26,"x3":46},"output":9}]}

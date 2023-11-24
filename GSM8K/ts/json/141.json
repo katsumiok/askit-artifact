@@ -1,0 +1,1 @@
+{"llm_time":22565818666,"errors":[],"completion":null,"reason":"","result":"Success","id":141,"question":"There are 700 bees in a hive. There are twice as many worker bees as baby bees, and there are twice as many babies as queens.  How many worker bees are there?","answer":400,"examples":[{"input":{"x1":700},"output":400}]}

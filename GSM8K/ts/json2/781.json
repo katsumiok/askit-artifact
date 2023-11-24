@@ -1,0 +1,1 @@
+{"llm_time":49292,"errors":[],"completion":null,"reason":"","result":"Success","id":781,"question":"Four friends ordered four pizzas for a total of 64 dollars. If two of the pizzas cost 30 dollars, how much did each of the other two pizzas cost if they cost the same amount?","answer":17,"examples":[{"input":{"x1":64,"x2":30},"output":17}]}

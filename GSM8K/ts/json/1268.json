@@ -1,0 +1,1 @@
+{"llm_time":7061440667,"errors":[],"completion":null,"reason":"","result":"Success","id":1268,"question":"A tower is made out of 4 blue blocks, twice as many yellow blocks, and an unknown number of red blocks. If there are 32 blocks in the tower in total, how many red blocks are there?","answer":20,"examples":[{"input":{"x1":4,"x2":32},"output":20}]}

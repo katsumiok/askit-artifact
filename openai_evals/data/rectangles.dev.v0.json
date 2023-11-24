@@ -1,0 +1,1 @@
+{"id": "rectangles.dev.v0", "example": {"input": [{"role": "system", "content": "The following are coordinates ([xMin, xMax], [yMin, yMax]) of two rectangles. Do they overlap? Answer with only the word \"Yes\" or \"No\"."}, {"role": "user", "content": "A = ([-6, -3], [2, 5]); B = ([-7, -4], [1, 9])"}], "output": "t.bool"}, "ideal": "Yes", "checked": false}

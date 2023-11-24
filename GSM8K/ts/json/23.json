@@ -1,0 +1,1 @@
+{"llm_time":4997835125,"errors":[],"completion":null,"reason":"","result":"Success","id":23,"question":"A candle melts by 2 centimeters every hour that it burns. How many centimeters shorter will a candle be after burning from 1:00 PM to 5:00 PM?","answer":8,"examples":[{"input":{"x1":2},"output":8}]}

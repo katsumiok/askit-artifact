@@ -1,0 +1,1 @@
+{"llm_time":44625,"errors":[],"completion":null,"reason":"","result":"Success","id":533,"question":"Errol bought a computer, 2 monitors, and a printer for $2,400. He paid $400 less for the printer than the computer. If the computer cost $1,100, how much did one monitor cost, in dollars?","answer":300,"examples":[{"input":{"x1":2},"output":300}]}

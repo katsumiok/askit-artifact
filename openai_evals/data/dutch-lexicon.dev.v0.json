@@ -1,0 +1,1 @@
+{"id": "dutch-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Dutch language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "millimeter"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

@@ -1,0 +1,1 @@
+{"llm_time":43000,"errors":[],"completion":null,"reason":"","result":"Success","id":1106,"question":"Marty has 100 centimeters of ribbon that he must cut into 4 equal parts. Each of the cut parts must be divided into 5 equal parts. How long will each final cut be?","answer":5,"examples":[{"input":{"x1":100,"x2":4,"x3":5},"output":5}]}

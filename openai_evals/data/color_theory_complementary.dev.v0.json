@@ -1,0 +1,1 @@
+{"id": "color_theory_complementary.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with an array of hex-code colors. Does the array represent a complementary set?"}, {"role": "user", "content": "[#636E5F, #6A5F6E]"}], "output": "t.bool"}, "ideal": "Y", "checked": true}

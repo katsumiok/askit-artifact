@@ -1,0 +1,1 @@
+{"llm_time":7055728750,"errors":[],"completion":null,"reason":"","result":"Failed","id":480,"question":"Ben has 4 tubes of blue paint and 3 tubes of yellow paint. Jasper has half as many tubes of blue paint as Ben, and three times as many tubes of yellow paint as Ben. How many tubes of paint does Jasper have?","answer":11,"examples":[{"input":{"x1":4,"x2":3},"output":11}]}

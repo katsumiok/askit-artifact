@@ -1,0 +1,1 @@
+{"id": "syllables.dev.v1", "example": {"input": [{"role": "system", "content": "Please state the number of syllables in the input word. Reply only with a number and nothing else."}, {"role": "user", "content": "university"}], "output": "t.int"}, "ideal": "5", "checked": false}

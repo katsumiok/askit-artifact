@@ -1,0 +1,1 @@
+{"id": "polish-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in Polish language? Answer Y or N."}, {"role": "user", "content": "odpinnie"}], "output": "t.bool"}, "ideal": "N", "checked": false}

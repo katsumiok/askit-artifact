@@ -1,0 +1,1 @@
+{"llm_time":42667,"errors":[],"completion":null,"reason":"","result":"Success","id":536,"question":"Chenny is 10 years old. Alyana is 4 years younger than Chenny. How old is Anne if she is 2 years older than Alyana?","answer":8,"examples":[{"input":{"x1":10,"x2":4,"x3":2},"output":8}]}

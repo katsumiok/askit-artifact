@@ -1,0 +1,1 @@
+{"llm_time":47333,"errors":[],"completion":null,"reason":"","result":"Success","id":59,"question":"A raspberry bush has 6 clusters of 20 fruit each and 67 individual fruit scattered across the bush. How many raspberries are there total?","answer":187,"examples":[{"input":{"x1":6,"x2":20,"x3":67},"output":187}]}

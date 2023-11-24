@@ -1,0 +1,1 @@
+{"llm_time":64208,"errors":[],"completion":null,"reason":"","result":"Success","id":96,"question":"Harry slept 9 hours last night. His friend James slept only 2/3 of what Harry slept. How many more hours did Harry sleep than James?","answer":3,"examples":[{"input":{"x1":9},"output":3}]}

@@ -1,0 +1,1 @@
+{"llm_time":42833,"errors":[],"completion":null,"reason":"","result":"Success","id":1250,"question":"Mitchell is making nachos for his family. He buys two bags of chips with 55 chips each. If his family has five members, how many chips does each person get if they all get the same number?","answer":22,"examples":[{"input":{"x1":55},"output":22}]}

@@ -1,0 +1,1 @@
+{"llm_time":45541,"errors":[],"completion":null,"reason":"","result":"Success","id":34,"question":"Siobhan has 2 fewer jewels than Aaron. Aaron has 5 more jewels than half of Raymond's jewels. If Raymond has 40 jewels, how many jewels does Siobhan have?","answer":23,"examples":[{"input":{"x1":2,"x2":5,"x3":40},"output":23}]}

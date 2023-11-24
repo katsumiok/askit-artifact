@@ -1,0 +1,1 @@
+{"llm_time":55708,"errors":[],"completion":null,"reason":"","result":"Success","id":378,"question":"Lindsay is doing the laundry, and thinks she has missed some socks. There are 50 socks that need washing. If she washes 10 pairs of socks and 15 loose socks, how many socks has Lindsay missed?","answer":15,"examples":[{"input":{"x1":50,"x2":10,"x3":15},"output":15}]}

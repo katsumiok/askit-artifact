@@ -1,0 +1,1 @@
+{"id": "sarcasm.test.v1", "example": {"input": [{"role": "system", "content": "Respond with only a 1 or 0 to signify if the user's message includes sarcasm, or not"}, {"role": "user", "content": "thirtysomething scientists unveil doomsday clock of hair loss"}], "output": "t.union(t.literal(1), t.literal(0))"}, "ideal": "1", "checked": false}

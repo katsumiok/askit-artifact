@@ -1,0 +1,1 @@
+{"llm_time":5401151875,"errors":[],"completion":null,"reason":"","result":"Success","id":360,"question":"Carver just turned 45 years old, which makes him 5 years less than twice the age of his son.  How old is his son, in years?","answer":25,"examples":[{"input":{"x1":45,"x2":5},"output":25}]}

@@ -1,0 +1,1 @@
+{"llm_time":51584,"errors":[],"completion":null,"reason":"","result":"Success","id":853,"question":"There are 90 rooms at the KozyInn Motel. It takes housekeeping 20 minutes to clean each room. How many hours would it take to clean one-half of the rooms?","answer":15,"examples":[{"input":{"x1":90,"x2":20},"output":15}]}

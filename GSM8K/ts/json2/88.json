@@ -1,0 +1,1 @@
+{"llm_time":45458,"errors":[],"completion":null,"reason":"","result":"Success","id":88,"question":"Marilyn's first record sold 10 times as many copies as Harald's. If they sold 88,000 copies combined, how many copies did Harald sell?","answer":8000,"examples":[{"input":{"x1":10},"output":8000}]}

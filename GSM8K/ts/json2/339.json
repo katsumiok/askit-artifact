@@ -1,0 +1,1 @@
+{"llm_time":42916,"errors":[],"completion":null,"reason":"","result":"Success","id":339,"question":"Farmer Brown has 60 animals on his farm, all either chickens or cows. He has twice as many chickens as cows. How many legs do the animals have, all together?","answer":160,"examples":[{"input":{"x1":60},"output":160}]}

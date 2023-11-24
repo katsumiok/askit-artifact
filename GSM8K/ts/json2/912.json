@@ -1,0 +1,1 @@
+{"llm_time":48666,"errors":[],"completion":null,"reason":"","result":"Success","id":912,"question":"John drinks a bottle of water every half hour.  A normal sudoku puzzle takes him 45 minutes.  An extreme sudoku takes 4 times that long.  How many bottles of water does he drink in that time?","answer":6,"examples":[{"input":{"x1":45,"x2":4},"output":6}]}

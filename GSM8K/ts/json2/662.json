@@ -1,0 +1,1 @@
+{"llm_time":43750,"errors":[],"completion":null,"reason":"","result":"Success","id":662,"question":"Gus spent $20.00 at the grocery store.  He bought 2 bag of chips for $2.00 each, a bucket of fried chicken for $8.00 and a bottle of soda for $1.00.  How much did the apple pie cost?","answer":7,"examples":[{"input":{"x1":2},"output":7}]}

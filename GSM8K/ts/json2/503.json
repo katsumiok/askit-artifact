@@ -1,0 +1,1 @@
+{"llm_time":51084,"errors":[],"completion":null,"reason":"","result":"Success","id":503,"question":"The rug is 5 feet wider than the chair. The couch is 2 feet longer than twice the width of the rug. If the chair is 3 feet wide. How many feet long is the couch?","answer":18,"examples":[{"input":{"x1":5,"x2":2,"x3":3},"output":18}]}

@@ -1,0 +1,1 @@
+{"llm_time":51834,"errors":[],"completion":null,"reason":"","result":"Success","id":335,"question":"Mason needs 30 ounces of sugar to make a batch of suckers and 70 ounces of sugar to make a batch of fudge. How much sugar does he need to make 8 batches of suckers and 1 batch of fudge?","answer":310,"examples":[{"input":{"x1":30,"x2":70,"x3":8,"x4":1},"output":310}]}

@@ -1,0 +1,1 @@
+{"llm_time":93750,"errors":[],"completion":null,"reason":"","result":"Success","id":179,"question":"Lloyd earns $10 an hour on Math tutoring.  He tutored 5 hours for the first week and 8 hours for the second week. How much did he earn for the first two weeks?","answer":130,"examples":[{"input":{"x1":5,"x2":8},"output":130}]}

@@ -1,0 +1,1 @@
+{"llm_time":9805399458,"errors":[],"completion":null,"reason":"","result":"Success","id":1059,"question":"Imma has 3 cats. She feeds her cats twice a day with 60 grams of cat food. How many days will 720 grams of cat food last?","answer":2,"examples":[{"input":{"x1":3,"x2":60,"x3":720},"output":2}]}

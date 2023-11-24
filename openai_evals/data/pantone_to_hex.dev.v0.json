@@ -1,0 +1,1 @@
+{"id": "pantone_to_hex.dev.v0", "example": {"input": [{"role": "system", "content": "Convert pantone color to its hex representation."}, {"role": "user", "content": "Yellow C"}], "output": "t.str"}, "ideal": "#FEDD00", "checked": false}

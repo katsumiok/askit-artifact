@@ -1,0 +1,1 @@
+{"llm_time":44292,"errors":[],"completion":null,"reason":"","result":"Success","id":774,"question":"Jack decides to visit a museum 150 miles from home.  He drives 75 mph there and back.  He spends 6 hours at the museum.  How long is he gone from home?","answer":10,"examples":[{"input":{"x1":150,"x2":75,"x3":6},"output":10}]}

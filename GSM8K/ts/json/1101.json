@@ -1,0 +1,1 @@
+{"llm_time":16570713417,"errors":[],"completion":null,"reason":"","result":"Success","id":1101,"question":"Amber, Micah, and Ahito ran 52 miles in total. Amber ran 8 miles. Micah ran 3.5 times what Amber ran. How many miles did Ahito run?","answer":16,"examples":[{"input":{"x1":52,"x2":8},"output":16}]}

@@ -1,0 +1,1 @@
+{"llm_time":50708,"errors":[],"completion":null,"reason":"","result":"Success","id":929,"question":"A bus travels 60 miles per hour for 5 hours. A car travels 30 miles per hour for 8 hours. How much farther did the bus go than the car, in miles?","answer":60,"examples":[{"input":{"x1":60,"x2":5,"x3":30,"x4":8},"output":60}]}

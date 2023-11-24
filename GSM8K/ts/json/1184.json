@@ -1,0 +1,1 @@
+{"llm_time":6834258708,"errors":[],"completion":null,"reason":"","result":"Success","id":1184,"question":"To heat during the winter, Ali ordered 850 kilos of coal. The coal is delivered in 50 kg bags, costing $18 per unit. How much does his order cost?","answer":306,"examples":[{"input":{"x1":850,"x2":50},"output":306}]}

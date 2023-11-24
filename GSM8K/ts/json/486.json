@@ -1,0 +1,1 @@
+{"llm_time":6432444042,"errors":[],"completion":null,"reason":"","result":"Success","id":486,"question":"James runs 12 miles a day for 5 days a week.  If he runs 10 miles an hour how many hours does he run a week?","answer":6,"examples":[{"input":{"x1":12,"x2":5,"x3":10},"output":6}]}

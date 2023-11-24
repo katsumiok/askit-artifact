@@ -1,0 +1,1 @@
+{"llm_time":41250,"errors":[],"completion":null,"reason":"","result":"Success","id":222,"question":"Andy plants 90 geraniums and 40 fewer petunias that geraniums. How many flowers does he plant total?","answer":140,"examples":[{"input":{"x1":90,"x2":40},"output":140}]}

@@ -1,0 +1,1 @@
+{"llm_time":43958,"errors":[],"completion":null,"reason":"","result":"Success","id":921,"question":"A loaf of bread has 24 slices. If Abby can eat 2 slices a day while Josh can eat twice as much, how many days will the loaf of bread last?","answer":4,"examples":[{"input":{"x1":24,"x2":2},"output":4}]}

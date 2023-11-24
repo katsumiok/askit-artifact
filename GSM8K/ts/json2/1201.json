@@ -1,0 +1,1 @@
+{"llm_time":42292,"errors":[],"completion":null,"reason":"","result":"Success","id":1201,"question":"There are 66 fish in the fish tank. One-third of the fish have red stripes, and 5/11 of the remaining fish have blue stripes. Altogether, how many fish have red stripes and blue stripes?","answer":42,"examples":[{"input":{"x1":66},"output":42}]}

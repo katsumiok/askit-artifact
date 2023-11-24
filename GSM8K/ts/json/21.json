@@ -1,0 +1,1 @@
+{"llm_time":4548969292,"errors":[],"completion":null,"reason":"","result":"Success","id":21,"question":"Raymond and Samantha are cousins. Raymond was born 6 years before Samantha. Raymond had a son at the age of 23. If Samantha is now 31, how many years ago was Raymond's son born?","answer":14,"examples":[{"input":{"x1":6},"output":14}]}

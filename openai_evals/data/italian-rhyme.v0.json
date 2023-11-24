@@ -1,0 +1,1 @@
+{"id": "italian-rhyme.v0", "example": {"input": [{"role": "system", "content": "For each pair of words, determine whether their Italian translations rhyme. If they do, output the pair of rhyming words in Italian. If they do not, output NONE."}, {"role": "user", "content": "orange, car"}], "output": "t.union(t.list(t.str), t.literal('NONE'))"}, "ideal": "NONE", "checked": false}

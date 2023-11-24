@@ -1,0 +1,1 @@
+{"llm_time":48417,"errors":[],"completion":null,"reason":"","result":"Success","id":1298,"question":"Justin has a jar with many coins in it. The jar has 32 quarters, 95 dimes, 120 nickels, and 750 pennies. What is the total dollar amount in the jar?","answer":31,"examples":[{"input":{"x1":32,"x2":95,"x3":120,"x4":750},"output":31}]}

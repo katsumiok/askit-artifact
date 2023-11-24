@@ -1,0 +1,1 @@
+{"id": "ambiguous-sentences.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "The city councilmen refused the demonstrators a permit because they feared violence.. Who feared violence?"}], "output": "t.str"}, "ideal": "city councilmen", "checked": false}

@@ -1,0 +1,1 @@
+{"llm_time":18590301542,"errors":["Answer is not in a JSON block","Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":272,"question":"A mother goes shopping. She buys cocoa at $4.20, laundry at $9.45 and a package of pasta at $1.35. She pays $20. How much change does the cashier give back?","answer":5,"examples":[{"input":{},"output":5}]}

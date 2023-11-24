@@ -1,0 +1,1 @@
+{"llm_time":22645372250,"errors":[],"completion":null,"reason":"","result":"Success","id":931,"question":"The combined age of Peter, Paul and Jean is 100 years old. Find the age of Peter knowing that Paul is 10 years older than John and that Peter’s age is equal to the sum of Paul and John's age.","answer":50,"examples":[{"input":{"x1":100,"x2":10},"output":50}]}

@@ -1,0 +1,1 @@
+{"llm_time":49583,"errors":[],"completion":null,"reason":"","result":"Success","id":382,"question":"Axel has 50 silver pesos and 80 gold pesos. He visits her friend Anna who has twice as many silver pesos as he has and 40 more gold pesos. What's the total number of pesos they have together?","answer":350,"examples":[{"input":{"x1":50,"x2":80,"x3":40},"output":350}]}

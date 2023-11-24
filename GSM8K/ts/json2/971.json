@@ -1,0 +1,1 @@
+{"llm_time":55000,"errors":[],"completion":null,"reason":"","result":"Success","id":971,"question":"Robert is building a 15 foot long, 10 foot wide, rectangular wooden fence around his garden.  He needs 2 wood slats for every foot of fencing he builds.  How many wooden slats will he need?","answer":100,"examples":[{"input":{"x1":15,"x2":10,"x3":2},"output":100}]}

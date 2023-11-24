@@ -1,0 +1,1 @@
+{"llm_time":39625,"errors":[],"completion":null,"reason":"","result":"Success","id":1162,"question":"Geb is 10 less than half the age of Haley. If Haley is 26 years old, how old is Geb?","answer":3,"examples":[{"input":{"x1":10,"x2":26},"output":3}]}

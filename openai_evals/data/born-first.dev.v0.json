@@ -1,0 +1,1 @@
+{"id": "born-first.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Was Abraham Lincoln born before Franklin Pierce?"}], "output": "t.bool"}, "ideal": "N", "checked": true}

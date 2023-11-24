@@ -1,0 +1,1 @@
+{"llm_time":43875,"errors":[],"completion":null,"reason":"","result":"Success","id":1136,"question":"Bob has a certain number of marbles. If he receives 2 dozen more marbles, he will have 60 marbles. If he loses 10 of the marbles he has, how many marbles will Bob have?","answer":26,"examples":[{"input":{"x1":2,"x2":60,"x3":10},"output":26}]}

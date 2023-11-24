@@ -1,0 +1,1 @@
+{"llm_time":24786105334,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":1241,"question":"Rose bought five dozens of eggs for $2.40 a dozen. She will sell it for $1 for 3 eggs. How much will be Rose's profit?","answer":8,"examples":[{"input":{"x1":3},"output":8}]}

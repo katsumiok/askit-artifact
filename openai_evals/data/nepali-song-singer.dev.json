@@ -1,0 +1,1 @@
+{"id": "nepali-song-singer.dev", "example": {"input": [{"role": "system", "content": "A user will give you a English transliteration phrase of Nepali song. Give the name of the singer or band."}, {"role": "user", "content": "Yo maan ta mero nepali ho"}], "output": "t.str"}, "ideal": "1974 AD", "checked": false}

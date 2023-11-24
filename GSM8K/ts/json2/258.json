@@ -1,0 +1,1 @@
+{"llm_time":41792,"errors":[],"completion":null,"reason":"","result":"Success","id":258,"question":"Nancy is returning her overdue books to the library. She owes $0.50 cents each on 8 books, plus a flat $2.00 fee for having at least one book that's over a week overdue. How much does she have to pay total?","answer":6,"examples":[{"input":{"x1":8},"output":6}]}

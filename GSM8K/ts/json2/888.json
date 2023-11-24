@@ -1,0 +1,1 @@
+{"llm_time":51791,"errors":[],"completion":null,"reason":"","result":"Success","id":888,"question":"Lani baked 55 cookies. She ate 5 five cookies and placed the rest equally into five jars. How many cookies were in each jar?","answer":10,"examples":[{"input":{"x1":55,"x2":5},"output":10}]}

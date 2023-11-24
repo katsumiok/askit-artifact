@@ -1,0 +1,1 @@
+{"id": "reverse-polish-notation.dev.v0", "example": {"input": [{"role": "system", "content": "Convert mathematical expression to reverse polish notation. Do not provide any explanation or commentary, output the result only."}, {"role": "user", "content": "Mathematical expression: 1 + 1"}], "output": "t.str"}, "ideal": "1 1 +", "checked": false}

@@ -1,0 +1,1 @@
+{"llm_time":9609668833,"errors":[],"completion":null,"reason":"","result":"Success","id":1223,"question":"To make a call from a payphone, you must pay $0.25 for each minute of your call. After 16 minutes, that price drops to $0.2 per minute. How much would a 36-minute call cost?","answer":8,"examples":[{"input":{"x1":16},"output":8}]}

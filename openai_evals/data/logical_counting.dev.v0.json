@@ -1,0 +1,1 @@
+{"id": "logical_counting.dev.v0", "example": {"input": [{"role": "system", "content": "Solve the following logical puzzle. Answer in number, no additional text is required in the response. There are 2 ducks in front of a duck, 2 ducks behind a duck and a duck in the middle. What is the minimal number of ducks?"}], "output": "t.int"}, "ideal": "3", "checked": false}

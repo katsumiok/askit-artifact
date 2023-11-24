@@ -1,0 +1,1 @@
+{"llm_time":66584,"errors":[],"completion":null,"reason":"","result":"Success","id":434,"question":"The vending machines sell chips for 40 cents and candy bars for 75 cents. George spent $5 and got 3 bags of chips and had 1% of his money left. How many candy bars did he buy?","answer":5,"examples":[{"input":{"x1":40,"x2":75,"x3":3},"output":5}]}

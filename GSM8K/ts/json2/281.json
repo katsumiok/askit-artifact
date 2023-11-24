@@ -1,0 +1,1 @@
+{"llm_time":45958,"errors":[],"completion":null,"reason":"","result":"Success","id":281,"question":"A cobra, which has 70 spots, has twice as many spots as a mamba. If there are 40 cobras and 60 mambas in a snake park, what is half the number of spots they all have combined?","answer":2450,"examples":[{"input":{"x1":70,"x2":40,"x3":60},"output":2450}]}

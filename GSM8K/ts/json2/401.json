@@ -1,0 +1,1 @@
+{"llm_time":58167,"errors":[],"completion":null,"reason":"","result":"Success","id":401,"question":"A builder works for 4 weeks every month and for 6 days every week. If he gets paid $50 every day, how much does he earn if he works for a year?","answer":14400,"examples":[{"input":{"x1":4,"x2":6},"output":14400}]}

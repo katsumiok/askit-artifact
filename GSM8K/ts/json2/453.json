@@ -1,0 +1,1 @@
+{"llm_time":47000,"errors":[],"completion":null,"reason":"","result":"Success","id":453,"question":"Jenna starts out with 8 sapphires. She trades 3 sapphires for two rubies. If sapphires are worth $800 and rubies are worth $1200, how much money are all her jewels worth?","answer":6400,"examples":[{"input":{"x1":8,"x2":3},"output":6400}]}

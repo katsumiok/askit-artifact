@@ -1,0 +1,1 @@
+{"id": "multi-step-equations.dev.v0", "example": {"input": [{"role": "system", "content": "Solve the following question for x. Answer with a single number and no additional text. You are a helpful assistant."}, {"role": "user", "content": "8x + 4x = 12"}], "output": "t.float"}, "ideal": "1", "checked": false}

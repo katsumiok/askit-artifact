@@ -1,0 +1,1 @@
+{"id": "number-reading.dev.v0", "example": {"input": [{"role": "system", "content": "Translate chinese written number into arabic numerals directly, just output number, make your answer as short as possible."}, {"role": "user", "content": "\u4e00\u767e\u516b"}], "output": "t.int"}, "ideal": "180", "checked": false}

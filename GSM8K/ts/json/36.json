@@ -1,0 +1,1 @@
+{"llm_time":12120772792,"errors":[],"completion":null,"reason":"","result":"Success","id":36,"question":"Terry eats 2 yogurts a day.  They are currently on sale at 4 yogurts for $5.00.  How much does he spend on yogurt over 30 days?","answer":75,"examples":[{"input":{"x1":2,"x2":4,"x3":30},"output":75}]}

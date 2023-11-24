@@ -1,0 +1,1 @@
+{"llm_time":44625,"errors":[],"completion":null,"reason":"","result":"Success","id":334,"question":"Nick, Richard, Jason and DJ each have paintball guns. DJ has 8 guns, Nick has 10 guns, RJ has 1 gun and Richard has 5 guns. If they were to share their guns equally, how many guns would each of them have?","answer":6,"examples":[{"input":{"x1":8,"x2":10,"x3":1,"x4":5},"output":6}]}

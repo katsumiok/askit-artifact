@@ -1,0 +1,1 @@
+{"llm_time":8046888292,"errors":[],"completion":null,"reason":"","result":"Success","id":269,"question":"A juggler can juggle 16 balls.  Half of the balls are golf balls, and half of the golf balls are blue.  How many blue golf balls are there?","answer":4,"examples":[{"input":{"x1":16},"output":4}]}

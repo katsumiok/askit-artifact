@@ -1,0 +1,1 @@
+{"llm_time":7203243375,"errors":[],"completion":null,"reason":"","result":"Success","id":730,"question":"Parker chews 4 pieces of gum a day.  A pack of gum has 15 pieces of chewing gum per pack.  How many packs of gum will he need to last him 30 days?","answer":8,"examples":[{"input":{"x1":4,"x2":15,"x3":30},"output":8}]}

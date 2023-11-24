@@ -1,0 +1,1 @@
+{"llm_time":230667,"errors":[],"completion":null,"reason":"","result":"Success","id":256,"question":"Brady is counting the money in his piggy bank. He has 100 pennies, 40 nickels, 20 dimes, and 40 pieces of dollar bills. How much does Brady have in his piggy bank in dollars?","answer":45,"examples":[{"input":{"x1":100,"x2":40,"x3":20,"x4":40},"output":45}]}

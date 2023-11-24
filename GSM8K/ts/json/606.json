@@ -1,0 +1,1 @@
+{"llm_time":22695031584,"errors":[],"completion":null,"reason":"","result":"Success","id":606,"question":"Every 2 miles a car drives the tires rotate 725 times.  Jeremy drives 400 miles a month.  If each tire can undergo 10,440,000 rotations how many years before the tire needs to be replaced?","answer":6,"examples":[{"input":{"x1":2,"x2":725,"x3":400},"output":6}]}

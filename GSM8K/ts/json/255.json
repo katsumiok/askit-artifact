@@ -1,0 +1,1 @@
+{"llm_time":6748777792,"errors":[],"completion":null,"reason":"","result":"Success","id":255,"question":"Ten stalls have 20 cows each. Mr. Sylas buys 40 cows and divides them equally, putting an equal number of the new cows into each of the twenty stalls. How many cows are in 8 of the stalls?","answer":192,"examples":[{"input":{"x1":20,"x2":40,"x3":8},"output":192}]}

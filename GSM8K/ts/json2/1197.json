@@ -1,0 +1,1 @@
+{"llm_time":45792,"errors":[],"completion":null,"reason":"","result":"Success","id":1197,"question":"John buys 10 bottles of scotch for a total cost of $600.  He also buys twice as many bottles of cognac that cost 50% more per bottle.  How much does he spend on everything?","answer":2400,"examples":[{"input":{"x1":10},"output":2400}]}

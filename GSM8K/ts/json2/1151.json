@@ -1,0 +1,1 @@
+{"llm_time":41167,"errors":[],"completion":null,"reason":"","result":"Success","id":1151,"question":"Sid traveled 110 miles in 2 hours. If Sid then traveled an additional 140 miles in 3 hours, what's the average speed he was traveling?","answer":50,"examples":[{"input":{"x1":110,"x2":2,"x3":140,"x4":3},"output":50}]}

@@ -1,0 +1,1 @@
+{"llm_time":48250,"errors":[],"completion":null,"reason":"","result":"Success","id":1314,"question":"John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will John's youngest son, who was born when John was 32, be in 3 years?","answer":8,"examples":[{"input":{"x1":12,"x2":3,"x3":3},"output":8}]}

@@ -1,0 +1,1 @@
+{"id": "belarusian-syllable-count.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single Belarusian word. Your output must be the number of syllables in this word (a single digit)."}, {"role": "user", "content": "\u0431"}], "output": "t.int"}, "ideal": "0", "checked": true}

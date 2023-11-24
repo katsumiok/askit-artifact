@@ -1,0 +1,1 @@
+{"llm_time":7718288167,"errors":[],"completion":null,"reason":"","result":"Success","id":645,"question":"A bag of flour is divided into 8 portions of 2 kilograms each. How much flour (in kilograms) was in three bags in total, before it was divided into portions?","answer":48,"examples":[{"input":{"x1":8,"x2":2},"output":48}]}

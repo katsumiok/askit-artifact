@@ -1,0 +1,1 @@
+{"llm_time":12234076417,"errors":[],"completion":null,"reason":"","result":"Success","id":1050,"question":"It is approximately 1955 kilometers from San Diego, California to New York City, New York. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive?","answer":655,"examples":[{"input":{"x1":1955,"x2":325,"x3":4},"output":655}]}

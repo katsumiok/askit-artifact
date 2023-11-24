@@ -1,0 +1,1 @@
+{"llm_time":9727716791,"errors":[],"completion":null,"reason":"","result":"Success","id":1020,"question":"John picks 4 bananas on Wednesday. Then he picks 6 bananas on Thursday. On Friday, he picks triple the number of bananas he did on Wednesday. How many bananas does John have?","answer":22,"examples":[{"input":{"x1":4,"x2":6},"output":22}]}

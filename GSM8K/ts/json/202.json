@@ -1,0 +1,1 @@
+{"llm_time":6050042250,"errors":[],"completion":null,"reason":"","result":"Success","id":202,"question":"Josie grows grapes on her 10-acre farm.  Each acre produces 5 tons of grapes per year, and each ton of grapes makes 2 barrels of wine.  How many barrels of wine does her farm produce per year?","answer":100,"examples":[{"input":{"x1":5,"x2":2},"output":100}]}

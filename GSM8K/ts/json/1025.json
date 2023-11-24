@@ -1,0 +1,1 @@
+{"llm_time":5693522833,"errors":[],"completion":null,"reason":"","result":"Failed","id":1025,"question":"The Easter egg hunt team hid 100 eggs. The Smith twins each found 30 eggs. All the other eggs except 10 were found by their friends. How many eggs did the friends find?","answer":30,"examples":[{"input":{"x1":100,"x2":30,"x3":10},"output":30}]}

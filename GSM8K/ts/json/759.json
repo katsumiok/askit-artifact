@@ -1,0 +1,1 @@
+{"llm_time":9794402041,"errors":[],"completion":null,"reason":"","result":"Success","id":759,"question":"The number of songs in a playlist is 300. If John has 20 such playlists, and each song is 10 hours long, how many hours will the 20 playlists last in total?","answer":60000,"examples":[{"input":{"x1":20,"x2":10,"x3":20},"output":60000}]}

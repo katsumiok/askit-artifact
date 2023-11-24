@@ -1,0 +1,1 @@
+{"llm_time":8037369750,"errors":[],"completion":null,"reason":"","result":"Success","id":117,"question":"John buys 2 pairs of shoes for each of his 3 children.  They cost $60 each.  How much did he pay?","answer":360,"examples":[{"input":{"x1":2,"x2":3},"output":360}]}

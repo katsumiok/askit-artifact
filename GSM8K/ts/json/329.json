@@ -1,0 +1,1 @@
+{"llm_time":6670114042,"errors":[],"completion":null,"reason":"","result":"Success","id":329,"question":"Erin has 7 lollipops. Her mother gives Erin another 10 lollipops. If Erin gives 3 of her lollipops to Ella, how many lollipops does she have left?","answer":14,"examples":[{"input":{"x1":7,"x2":10,"x3":3},"output":14}]}

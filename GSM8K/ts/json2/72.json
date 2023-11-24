@@ -1,0 +1,1 @@
+{"llm_time":44333,"errors":[],"completion":null,"reason":"","result":"Success","id":72,"question":"Tommy is fundraising for his charity by selling brownies for $3 a slice and cheesecakes for $4 a slice. If Tommy sells 43 brownies and 23 slices of cheesecake, how much money does Tommy raise?","answer":221,"examples":[{"input":{"x1":43,"x2":23},"output":221}]}

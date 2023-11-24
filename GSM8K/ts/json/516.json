@@ -1,0 +1,1 @@
+{"llm_time":5443352958,"errors":[],"completion":null,"reason":"","result":"Success","id":516,"question":"On average Joe throws 25 punches per minute.  A fight lasts 5 rounds of 3 minutes.  How many punches did he throw?","answer":375,"examples":[{"input":{"x1":25,"x2":5,"x3":3},"output":375}]}

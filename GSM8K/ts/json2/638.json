@@ -1,0 +1,1 @@
+{"llm_time":43791,"errors":[],"completion":null,"reason":"","result":"Success","id":638,"question":"In a grocery store, four apples cost $5.20, and three oranges cost $3.30. How much will Clyde pay for 5 apples and 5 oranges?","answer":12,"examples":[{"input":{"x1":5,"x2":5},"output":12}]}

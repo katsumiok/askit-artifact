@@ -1,0 +1,1 @@
+{"llm_time":48583,"errors":[],"completion":null,"reason":"","result":"Success","id":808,"question":"There are 10 quarts of tea left from the party. Four students each drank 1.5 quarts of tea and 16 students each drank 2 quarts of tea. How many gallons of tea were at the beginning of the party?","answer":12,"examples":[{"input":{"x1":10,"x2":16,"x3":2},"output":12}]}

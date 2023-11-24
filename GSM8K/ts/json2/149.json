@@ -1,0 +1,1 @@
+{"llm_time":40584,"errors":[],"completion":null,"reason":"","result":"Success","id":149,"question":"Charlie has three times as many Facebook friends as Dorothy. James has four times as many friends on Facebook as Dorothy. If Charlie has 12 friends on Facebook, how many Facebook friends does James have?","answer":16,"examples":[{"input":{"x1":12},"output":16}]}

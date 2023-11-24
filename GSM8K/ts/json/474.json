@@ -1,0 +1,1 @@
+{"llm_time":13570760750,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":474,"question":"At a certain grade level, three-fourths of students have a desktop computer at home. If 20 students do not have desktop computers, how many students are there at that grade level?","answer":80,"examples":[{"input":{"x1":20},"output":80}]}

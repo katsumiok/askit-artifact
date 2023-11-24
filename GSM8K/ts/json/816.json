@@ -1,0 +1,1 @@
+{"llm_time":7920163875,"errors":[],"completion":null,"reason":"","result":"Success","id":816,"question":"John goes to the market and buys 3 goats for $500 each and 2 cows for $1500 each.  How much money did he spend?","answer":4500,"examples":[{"input":{"x1":3,"x2":2},"output":4500}]}

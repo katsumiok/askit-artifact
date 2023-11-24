@@ -1,0 +1,1 @@
+{"id": "italian-new-words.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Italian language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "abbattere"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

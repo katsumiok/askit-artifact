@@ -1,0 +1,1 @@
+{"llm_time":41458,"errors":[],"completion":null,"reason":"","result":"Success","id":794,"question":"A zookeeper is counting how many lions are in their enclosure. She counts 12 female lions, half as many male lions, and 14 lion cubs. How many lions are in the enclosure?","answer":32,"examples":[{"input":{"x1":12,"x2":14},"output":32}]}

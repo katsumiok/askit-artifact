@@ -1,0 +1,1 @@
+{"llm_time":13385204667,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":1143,"question":"Tim grows 5 trees.  Each year he collects 6 lemons from each tree.  How many lemons does he get in a decade?","answer":300,"examples":[{"input":{"x1":5,"x2":6},"output":300}]}

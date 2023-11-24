@@ -1,0 +1,1 @@
+{"id": "word_vector_over_reliance.dev.simple-v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant. Please choose the unique one word in given word set, just answer the chosen word with no transformation and no explanation."}, {"role": "user", "content": "one,0,ten."}], "output": "t.literal(\"ten\")"}, "ideal": "0", "checked": false}

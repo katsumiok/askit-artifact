@@ -1,0 +1,1 @@
+{"llm_time":44583,"errors":[],"completion":null,"reason":"","result":"Success","id":527,"question":"If one person can paint half a house in 5 days, how many hours would it take for 5 people to paint a whole house?","answer":48,"examples":[{"input":{"x1":5,"x2":5},"output":48}]}

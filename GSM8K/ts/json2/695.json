@@ -1,0 +1,1 @@
+{"llm_time":51625,"errors":[],"completion":null,"reason":"","result":"Success","id":695,"question":"There are 50 deer in a field.  50 percent of them are bucks.  20 percent of the bucks are 8 points.  How many 8 point bucks are there?","answer":5,"examples":[{"input":{"x1":50,"x2":50,"x3":20,"x4":8,"x5":8},"output":5}]}

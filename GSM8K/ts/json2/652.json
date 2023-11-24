@@ -1,0 +1,1 @@
+{"llm_time":12988736500,"errors":[],"completion":null,"reason":"","result":"Failed","id":652,"question":"James hires a horse-drawn carriage from 5 PM to 9 PM.  He gets 1 hour free.  The first paid hour is $15 and each hour after that is twice the cost.  How much did he pay?","answer":75,"examples":[{"input":{"x1":5,"x2":9,"x3":1},"output":75}]}

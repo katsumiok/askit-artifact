@@ -1,0 +1,1 @@
+{"llm_time":40500,"errors":[],"completion":null,"reason":"","result":"Success","id":240,"question":"James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many more candies does John have than James?","answer":21,"examples":[{"input":{"x1":6,"x2":54},"output":21}]}

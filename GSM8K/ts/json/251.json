@@ -1,0 +1,1 @@
+{"llm_time":5896189333,"errors":[],"completion":null,"reason":"","result":"Success","id":251,"question":"Travis had 61 apps on his tablet. He deleted 9 apps he didn't use anymore and downloaded 18 more. How many apps are on his tablet now?","answer":70,"examples":[{"input":{"x1":61,"x2":9,"x3":18},"output":70}]}

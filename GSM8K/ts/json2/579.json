@@ -1,0 +1,1 @@
+{"llm_time":44250,"errors":[],"completion":null,"reason":"","result":"Success","id":579,"question":"A boy has 5 cards. His brother has 3 fewer cards than he has. How many cards do they have together?","answer":7,"examples":[{"input":{"x1":5,"x2":3},"output":7}]}

@@ -1,0 +1,1 @@
+{"llm_time":8509536917,"errors":[],"completion":null,"reason":"","result":"Success","id":158,"question":"Raphael went to buy some school supplies. He bought 4 pens which cost $1.5 each, 2 notebooks which cost $4 each, and a rim of bond paper which cost $20. How much did Raphael spend on everything?","answer":34,"examples":[{"input":{"x1":4,"x2":2},"output":34}]}

@@ -1,0 +1,1 @@
+{"llm_time":50333,"errors":[],"completion":null,"reason":"","result":"Success","id":1182,"question":"Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?","answer":1800,"examples":[{"input":{"x1":3,"x2":100},"output":1800}]}

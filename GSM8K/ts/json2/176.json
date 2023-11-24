@@ -1,0 +1,1 @@
+{"llm_time":51416,"errors":[],"completion":null,"reason":"","result":"Success","id":176,"question":"In a race with 240 Asians, 80 were Japanese, and the rest were Chinese. If the number of boys on the Chinese team was 60, how many girls were on the Chinese team?","answer":100,"examples":[{"input":{"x1":240,"x2":80},"output":100}]}

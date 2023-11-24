@@ -1,0 +1,1 @@
+{"llm_time":10047196834,"errors":[],"completion":null,"reason":"","result":"Success","id":1186,"question":"Sam ran 3 miles on Monday, Wednesday and Friday.  On Tuesday and Thursday, Sam ran 5 miles.  How many miles did Sam run this week?","answer":19,"examples":[{"input":{"x1":3,"x2":5},"output":19}]}

@@ -1,0 +1,1 @@
+{"llm_time":5830580208,"errors":[],"completion":null,"reason":"","result":"Success","id":713,"question":"Mr Boarden is remodeling his bathroom. For every square foot, he needs 24 mosaic tiles. How many mosaic tiles would Mr Boarden need to cover two thirds of his 36 sq ft bathroom?","answer":576,"examples":[{"input":{"x1":24,"x2":36},"output":576}]}

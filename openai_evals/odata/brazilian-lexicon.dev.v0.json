@@ -1,0 +1,1 @@
+{"id": "brazilian-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Brazilian language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "CONFISS\u00d5ES"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

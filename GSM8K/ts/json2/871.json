@@ -1,0 +1,1 @@
+{"llm_time":52416,"errors":[],"completion":null,"reason":"","result":"Success","id":871,"question":"Tobias bought a big pizza with 60 pieces. He ate 2/5 of the pieces on the first day, 10 pieces on the second day, and 7/13 of the remaining pieces on the third day. How many pizza pieces has he eaten so far?","answer":48,"examples":[{"input":{"x1":60,"x2":10},"output":48}]}

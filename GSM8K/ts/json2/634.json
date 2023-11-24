@@ -1,0 +1,1 @@
+{"llm_time":40334,"errors":[],"completion":null,"reason":"","result":"Success","id":634,"question":"Tommy caught 3 more fish than Darren and Darren caught 6 less than Naomi. If Naomi caught 17 fish, how many fish did Tommy catch?","answer":14,"examples":[{"input":{"x1":3,"x2":6,"x3":17},"output":14}]}

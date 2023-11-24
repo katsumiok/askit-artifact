@@ -1,0 +1,1 @@
+{"llm_time":7443149750,"errors":[],"completion":null,"reason":"","result":"Success","id":1098,"question":"Jeff is 10 years older than his younger sister, Martha. Martha, on the other hand, is 4 years younger than her boyfriend, Mike. If Mike is 24 years old, how old is Jeff?","answer":30,"examples":[{"input":{"x1":10,"x2":4,"x3":24},"output":30}]}

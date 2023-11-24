@@ -1,0 +1,1 @@
+{"llm_time":41709,"errors":[],"completion":null,"reason":"","result":"Success","id":50,"question":"Lloyd has an egg farm. His chickens produce 252 eggs per day and he sells them for $2 per dozen. How much does Lloyd make on eggs per week?","answer":294,"examples":[{"input":{"x1":252},"output":294}]}

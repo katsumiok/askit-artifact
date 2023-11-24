@@ -1,0 +1,1 @@
+{"llm_time":42209,"errors":[],"completion":null,"reason":"","result":"Success","id":1109,"question":"Three of the women at the cocktail party are wearing 4 inch heels and three are wearing 2 inch heels. What is the average height of heels at this party?","answer":3,"examples":[{"input":{"x1":4,"x2":2},"output":3}]}

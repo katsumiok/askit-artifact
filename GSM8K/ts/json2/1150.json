@@ -1,0 +1,1 @@
+{"llm_time":40417,"errors":[],"completion":null,"reason":"","result":"Success","id":1150,"question":"Patricia has 30 roses. She gave 24 roses to her mother. She bought 15 more roses.  How many roses did she have now?","answer":21,"examples":[{"input":{"x1":30,"x2":24,"x3":15},"output":21}]}

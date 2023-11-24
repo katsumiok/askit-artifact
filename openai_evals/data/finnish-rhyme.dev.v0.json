@@ -1,0 +1,1 @@
+{"id": "finnish-rhyme.dev.v0", "example": {"input": [{"role": "system", "content": "For each pair of words, determine whether their Finnish translations rhyme. If they do, output the pair of rhyming words in Finnish. If not, output NONE."}, {"role": "user", "content": "boat, Go!"}], "output": "t.union(t.literal('NONE'), t.list(t.str))"}, "ideal": "vene, Mene!", "checked": false}

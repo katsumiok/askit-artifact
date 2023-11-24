@@ -1,0 +1,1 @@
+{"llm_time":52292,"errors":[],"completion":null,"reason":"","result":"Success","id":6,"question":"Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 20 sheep?","answer":260,"examples":[{"input":{"x1":4,"x2":20},"output":260}]}

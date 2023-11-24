@@ -1,0 +1,1 @@
+{"llm_time":10351308167,"errors":[],"completion":null,"reason":"","result":"Success","id":491,"question":"Jaime places eggs on the tray. Each tray can hold 24 eggs. If he has 64 eggs and 2 trays, how many eggs won't he be able to place on the tray?","answer":16,"examples":[{"input":{"x1":24,"x2":64,"x3":2},"output":16}]}

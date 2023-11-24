@@ -1,0 +1,1 @@
+{"llm_time":48333,"errors":[],"completion":null,"reason":"","result":"Success","id":280,"question":"Peter purchased 20 popsicles at $0.25 each. He also purchased 4 ice cream bars at $0.50 each. How much did he pay in total in dollars?","answer":7,"examples":[{"input":{"x1":20,"x2":4},"output":7}]}

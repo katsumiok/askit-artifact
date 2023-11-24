@@ -1,0 +1,1 @@
+{"llm_time":47208,"errors":[],"completion":null,"reason":"","result":"Success","id":728,"question":"Candy has 15 light blue spools of thread, 45 dark blue spools of thread, 40 light green spools of thread, and 50 dark green spools of thread. What percent of her spools are blue?","answer":40,"examples":[{"input":{"x1":15,"x2":45,"x3":40,"x4":50},"output":40}]}

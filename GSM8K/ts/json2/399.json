@@ -1,0 +1,1 @@
+{"llm_time":44583,"errors":[],"completion":null,"reason":"","result":"Success","id":399,"question":"Alice is 7 years older than Beth, who is 5 years older than Erica. What is the difference between the ages of Alice and Erica, if Erica is 30 years old?","answer":12,"examples":[{"input":{"x1":7,"x2":5,"x3":30},"output":12}]}

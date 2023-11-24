@@ -1,0 +1,1 @@
+{"llm_time":49500,"errors":[],"completion":null,"reason":"","result":"Success","id":843,"question":"Craig has 2 twenty dollar bills. He buys six squirt guns for $2 each.  He also buys 3 packs of water balloons for $3 each.  How much money does he have left?","answer":19,"examples":[{"input":{"x1":2,"x2":3},"output":19}]}

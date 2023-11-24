@@ -1,0 +1,1 @@
+{"llm_time":6869860000,"errors":[],"completion":null,"reason":"","result":"Success","id":120,"question":"Miguel uses 2 pads of paper a week for his drawing. If there are 30 sheets of paper on a pad of paper, how many sheets of paper does he use every month?","answer":240,"examples":[{"input":{"x1":2,"x2":30},"output":240}]}

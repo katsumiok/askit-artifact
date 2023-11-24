@@ -1,0 +1,1 @@
+{"llm_time":7905324208,"errors":[],"completion":null,"reason":"","result":"Success","id":893,"question":"Mark works at his job for 8 hours a day for 5 days a week.  He used to make $10 an hour but they raised his pay by $2 per hour.  How much does he make a week?","answer":480,"examples":[{"input":{"x1":8,"x2":5},"output":480}]}

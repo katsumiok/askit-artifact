@@ -1,0 +1,1 @@
+{"llm_time":5270836416,"errors":[],"completion":null,"reason":"","result":"Success","id":719,"question":"Goldy bought 20 sacks of rice and gave 3 sacks to her cousin and 4 sacks to her brother, if there are 25 kilograms of rice per sack, how many kilograms does she gave to her cousin and brother?","answer":175,"examples":[{"input":{"x1":20,"x2":3,"x3":4,"x4":25},"output":175}]}

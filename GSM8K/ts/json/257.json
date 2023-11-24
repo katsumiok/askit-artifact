@@ -1,0 +1,1 @@
+{"llm_time":11840437417,"errors":[],"completion":null,"reason":"","result":"Success","id":257,"question":"Each solid 10-foot section of a redwood tree weighs 400 pounds. Termites ate 30% of this redwood's wood. If the redwood is 200 feet tall, how much does it weigh?","answer":5600,"examples":[{"input":{"x1":400,"x2":200},"output":5600}]}

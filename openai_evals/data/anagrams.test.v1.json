@@ -1,0 +1,1 @@
+{"id": "anagrams.test.v1", "example": {"input": [{"role": "system", "content": "Find the anagram of the input word (output is a single word)"}, {"role": "user", "content": "aotliibcyauntc"}], "output": "t.str"}, "ideal": "accountability", "checked": true}

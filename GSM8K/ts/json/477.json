@@ -1,0 +1,1 @@
+{"llm_time":8714035166,"errors":[],"completion":null,"reason":"","result":"Success","id":477,"question":"Nine of the kids in Gina's class are allergic to dairy, 6 are allergic to peanuts and 3 are allergic to both. If there are 32 kids in her class, how many aren't allergic to anything?","answer":20,"examples":[{"input":{"x1":6,"x2":3,"x3":32},"output":20}]}

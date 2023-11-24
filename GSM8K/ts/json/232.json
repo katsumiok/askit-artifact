@@ -1,0 +1,1 @@
+{"llm_time":8465537708,"errors":[],"completion":null,"reason":"","result":"Success","id":232,"question":"Dax went to their farm to pick some apples and found half as many bugs as ants in the garden. If there were 50 ants, calculate the total number of insects in the garden.","answer":75,"examples":[{"input":{"x1":50},"output":75}]}

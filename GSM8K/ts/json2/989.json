@@ -1,0 +1,1 @@
+{"llm_time":54208,"errors":[],"completion":null,"reason":"","result":"Success","id":989,"question":"Emily can peel 6 shrimp a minute and saute 30 shrimp in 10 minutes. How long will it take her to peel and cook 90 shrimp?","answer":45,"examples":[{"input":{"x1":6,"x2":30,"x3":10,"x4":90},"output":45}]}

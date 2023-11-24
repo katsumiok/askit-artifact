@@ -1,0 +1,1 @@
+{"llm_time":49000,"errors":[],"completion":null,"reason":"","result":"Success","id":429,"question":"Indras has 6 letters in her name. Her sister's name has 4 more letters than half of the letters in Indras' name. How many letters are in Indras and her sister's names?","answer":13,"examples":[{"input":{"x1":6,"x2":4},"output":13}]}

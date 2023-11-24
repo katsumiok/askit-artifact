@@ -1,0 +1,1 @@
+{"llm_time":4914244541,"errors":[],"completion":null,"reason":"","result":"Success","id":741,"question":"Jeremy saw 12 birds in their backyard and threw a stone at them, scaring away 1/3 of that number. A few minutes later, 20 more birds joined the fearless birds. How many birds are now in the backyard?","answer":28,"examples":[{"input":{"x1":12,"x2":20},"output":28}]}

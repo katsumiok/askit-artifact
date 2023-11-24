@@ -1,0 +1,1 @@
+{"llm_time":48709,"errors":[],"completion":null,"reason":"","result":"Success","id":80,"question":"Two girls each got 1/6 of the 24 liters of water. Then a boy got 6 liters of water. How many liters of water were left?","answer":10,"examples":[{"input":{"x1":24,"x2":6},"output":10}]}

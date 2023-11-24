@@ -1,0 +1,1 @@
+{"llm_time":42792,"errors":[],"completion":null,"reason":"","result":"Success","id":495,"question":"Charisma works for 8 hours every day.  She has a timer to remind her to get up and walk for 5 minutes every hour she’s at work.  After 5 days at the office, how many minutes has she walked?","answer":200,"examples":[{"input":{"x1":8,"x2":5,"x3":5},"output":200}]}

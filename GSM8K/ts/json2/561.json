@@ -1,0 +1,1 @@
+{"llm_time":47458,"errors":[],"completion":null,"reason":"","result":"Success","id":561,"question":"If Mark weighs 150 pounds and Susan weighs 20 pounds less than Mark.  And their friend Bob weighs twice as much as Susan.  What is the average weight of the 3 friends?","answer":180,"examples":[{"input":{"x1":150,"x2":20,"x3":3},"output":180}]}

@@ -1,0 +1,1 @@
+{"llm_time":7537836916,"errors":[],"completion":null,"reason":"","result":"Success","id":328,"question":"The cell-phone recharges at the rate of 1 percentage-point of charge per 3 minutes. Now, the phone is at 60% charged. How long will it take to fully charge, in hours?","answer":2,"examples":[{"input":{"x1":1,"x2":3},"output":2}]}

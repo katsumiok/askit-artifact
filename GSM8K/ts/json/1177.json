@@ -1,0 +1,1 @@
+{"llm_time":10338918584,"errors":[],"completion":null,"reason":"","result":"Success","id":1177,"question":"Miss Albert's class is composed of 12 boys and 12 girls. One-third of the girls and one-fourth of the boys are on varsity. How many students are not on varsity?","answer":17,"examples":[{"input":{"x1":12,"x2":12},"output":17}]}

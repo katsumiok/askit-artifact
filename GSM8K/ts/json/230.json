@@ -1,0 +1,1 @@
+{"llm_time":20391761167,"errors":[],"completion":null,"reason":"","result":"Success","id":230,"question":"Mark buys a fleet of 12 cars for his company.  Each car sells for $20,000.  He pays 10% tax on the cars and then another $1000 for registration on each of them.  How much does he pay for everything?","answer":276000,"examples":[{"input":{"x1":12},"output":276000}]}

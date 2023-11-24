@@ -1,0 +1,1 @@
+{"llm_time":56458,"errors":[],"completion":null,"reason":"","result":"Success","id":374,"question":"Mary has 30 sheep. She gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does she collect every day?","answer":45,"examples":[{"input":{"x1":30,"x2":1,"x3":2},"output":45}]}

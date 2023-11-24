@@ -1,0 +1,1 @@
+{"llm_time":42292,"errors":[],"completion":null,"reason":"","result":"Success","id":285,"question":"If Ann is 9 years old and her brother is twice her age, how old will her brother be in 3 years?","answer":21,"examples":[{"input":{"x1":9,"x2":3},"output":21}]}

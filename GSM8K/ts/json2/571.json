@@ -1,0 +1,1 @@
+{"llm_time":50541,"errors":[],"completion":null,"reason":"","result":"Success","id":571,"question":"Leah just got a new kitten. Spaying her cost $200, her 3 vaccines costs $20 each, and the kitten broke 4 vases that cost $12 each. How much has the kitten cost so far?","answer":308,"examples":[{"input":{"x1":3,"x2":4},"output":308}]}

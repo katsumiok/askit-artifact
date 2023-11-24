@@ -1,0 +1,1 @@
+{"llm_time":23612284958,"errors":["Answer is not in a JSON block","Answer is not in a JSON block"],"completion":null,"reason":"","result":"Failed","id":187,"question":"Mandy owes Benedict $100. They agreed to have monthly interest of 2%. If Mandy was able to pay it after 3 months, how much should she give to Benedict?","answer":106,"examples":[{"input":{"x1":3},"output":106}]}

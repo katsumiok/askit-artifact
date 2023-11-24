@@ -1,0 +1,1 @@
+{"id": "polish-syllable-count.val.v0", "example": {"input": [{"role": "system", "content": "Trzeba policzy\u0107 sylaby w polskim wyrazie i odpowiedzie\u0107 tylko jedn\u0105 cyfr\u0105. Wpisz tylko numer i nic wi\u0119cej."}, {"role": "user", "content": "Wyraz: miasto"}], "output": "t.int"}, "ideal": "2", "checked": false}

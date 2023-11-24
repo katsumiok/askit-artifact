@@ -1,0 +1,1 @@
+{"llm_time":15998015000,"errors":[],"completion":null,"reason":"","result":"Failed","id":943,"question":"James gets 10 new CDs.  Each CD cost $15.  He gets them for 40% off.  He decides he doesn't like 5 of them and sells them for 40. How much money was he out?","answer":50,"examples":[{"input":{"x1":10,"x2":5},"output":50}]}

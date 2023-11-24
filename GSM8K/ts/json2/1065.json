@@ -1,0 +1,1 @@
+{"llm_time":43209,"errors":[],"completion":null,"reason":"","result":"Success","id":1065,"question":"If John scored 100 on his first 3 tests and an 80 on his 4th, what was his average score across the 4 tests?","answer":95,"examples":[{"input":{"x1":100,"x2":3,"x3":80,"x4":4},"output":95}]}

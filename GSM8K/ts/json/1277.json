@@ -1,0 +1,1 @@
+{"llm_time":3940706709,"errors":[],"completion":null,"reason":"","result":"Success","id":1277,"question":"Mia and Emma are currently 16 years apart in age. If Mia, who is younger than Emma, is 40 years old, what's the average of their ages?","answer":48,"examples":[{"input":{"x1":16,"x2":40},"output":48}]}

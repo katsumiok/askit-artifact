@@ -1,0 +1,1 @@
+{"llm_time":7495417125,"errors":[],"completion":null,"reason":"","result":"Success","id":1057,"question":"Jill and her friends watch 4 movies every Saturday and half the number of movies on Sunday than on Saturday. If they watch movies every weekend, how many movies can they watch in 4 weeks?","answer":24,"examples":[{"input":{"x1":4,"x2":4},"output":24}]}

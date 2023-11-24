@@ -1,0 +1,1 @@
+{"llm_time":9773641542,"errors":[],"completion":null,"reason":"","result":"Success","id":35,"question":"Mike plays ping pong for 40 minutes.  In the first 20 minutes, he scores 4 points.  In the second 20 minutes, he scores 25% more points.  How many total points did he score?","answer":9,"examples":[{"input":{"x1":40,"x2":20,"x3":4,"x4":20},"output":9}]}

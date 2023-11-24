@@ -1,0 +1,1 @@
+{"llm_time":8902053042,"errors":[],"completion":null,"reason":"","result":"Success","id":742,"question":"In a certain school, two classes have a total of 80 students. Each class has the same amount of students, and in each class 40% of the students are girls. How many boys are in each class?","answer":24,"examples":[{"input":{"x1":80},"output":24}]}

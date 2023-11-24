@@ -1,0 +1,1 @@
+{"llm_time":6314422750,"errors":[],"completion":null,"reason":"","result":"Success","id":863,"question":"Gretchen has some coins. There are 30 more gold coins than silver coins. If she had 70 gold coins, how many coins did Gretchen have in total?","answer":110,"examples":[{"input":{"x1":30,"x2":70},"output":110}]}

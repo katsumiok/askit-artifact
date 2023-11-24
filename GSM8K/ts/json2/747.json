@@ -1,0 +1,1 @@
+{"llm_time":46083,"errors":[],"completion":null,"reason":"","result":"Failed","id":747,"question":"A tomato vendor decides to switch who he buys his tomatoes for.  He sells 500 tomatoes a day.  He used to buy them for $.5 each but he gets a new vendor who sells them for $.4 each.  How much money does he save a week?","answer":350,"examples":[{"input":{"x1":500},"output":350}]}

@@ -1,0 +1,1 @@
+{"llm_time":6284701750,"errors":[],"completion":null,"reason":"","result":"Success","id":435,"question":"Ray had 25 lollipops. He kept 5 lollipops and shared the remaining equally with his four friends. How many lollipops did each of his friends receive?","answer":5,"examples":[{"input":{"x1":25,"x2":5},"output":5}]}

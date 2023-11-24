@@ -1,0 +1,1 @@
+{"llm_time":44416,"errors":[],"completion":null,"reason":"","result":"Success","id":139,"question":"In a candy machine, there are 22 more than four times the number of pink gumballs as there are blue gumballs. If there are 12 blue gumballs how many pink ones are there?","answer":70,"examples":[{"input":{"x1":22,"x2":12},"output":70}]}

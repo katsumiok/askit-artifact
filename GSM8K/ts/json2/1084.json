@@ -1,0 +1,1 @@
+{"llm_time":47375,"errors":[],"completion":null,"reason":"","result":"Success","id":1084,"question":"If Sam and Harry have 100 feet of fence between them, and they agree to split it with Harry getting 60 feet more than Sam, how much is left over for Sam?","answer":20,"examples":[{"input":{"x1":100,"x2":60},"output":20}]}

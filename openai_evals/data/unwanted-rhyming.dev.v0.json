@@ -1,0 +1,1 @@
+{"id": "unwanted-rhyming.dev.v0", "example": {"input": [{"role": "system", "content": "Create a 12 line blank verse about love that has at most 3 rhymes. Afterwards, list all of the end words, then list all of the end words that rhyme."}], "output": "t.union(t.str, t.list(t.str))"}, "ideal": "A", "checked": false}

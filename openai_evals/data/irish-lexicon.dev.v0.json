@@ -1,0 +1,1 @@
+{"id": "irish-lexicon.dev.v0", "example": {"input": [{"role": "system", "content": "You will be prompted with a single word. Does this word exist in the Irish language? Answer with exactly one letter: Y or N."}, {"role": "user", "content": "aba"}], "output": "t.bool"}, "ideal": "Y", "checked": false}

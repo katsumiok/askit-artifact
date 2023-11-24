@@ -1,0 +1,1 @@
+{"id": "music_theory_scale_modes.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Which scale has the following notes: A B Db D E Gb Ab A?"}], "output": "t.str"}, "ideal": ["A Ionian", "A Major"], "checked": false}

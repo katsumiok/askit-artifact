@@ -1,0 +1,1 @@
+{"llm_time":43000,"errors":[],"completion":null,"reason":"","result":"Success","id":755,"question":"Joey plays football every week. Last week he played 2 matches on Monday, 1 match on Friday, and on Saturday he played double the number of matches he played on Monday. How many matches did Joey play in one week?","answer":7,"examples":[{"input":{"x1":2,"x2":1},"output":7}]}

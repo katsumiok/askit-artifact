@@ -1,0 +1,1 @@
+{"id": "swap-words.dev.v0", "example": {"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Swap the words in this string, write the output in double quotes and do not output anything else:\"MnRVHbxIXnIg RgPBmp\""}], "output": "t.str"}, "ideal": "\"RgPBmp MnRVHbxIXnIg\"", "checked": false}

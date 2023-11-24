@@ -1,0 +1,1 @@
+{"llm_time":15226369791,"errors":[],"completion":null,"reason":"","result":"Failed","id":999,"question":"A family of 6 (2 adults and 4 kids) are to divide a watermelon such that each adult gets a slice that is twice as big as that of each kid. What percentage of the watermelon does each adult get?","answer":25,"examples":[{"input":{"x1":6,"x2":4},"output":25}]}

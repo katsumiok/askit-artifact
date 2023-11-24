@@ -1,0 +1,1 @@
+{"llm_time":46250,"errors":[],"completion":null,"reason":"","result":"Success","id":466,"question":"Becky bought 20 apples for 45 cents each and received a $1 discount. Kelly bought 20 apples for 50 cents each and received a 10 percent discount. How much more did Kelly pay than Becky?","answer":1,"examples":[{"input":{"x1":20,"x2":45,"x3":20,"x4":50,"x5":10},"output":1}]}

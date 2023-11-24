@@ -1,0 +1,1 @@
+{"llm_time":5967778125,"errors":[],"completion":null,"reason":"","result":"Success","id":1074,"question":"Teddy finished half of a 500 piece puzzle, and then started and finished another 500 piece puzzle within an hour.  How many puzzle pieces did Teddy place during that hour?","answer":750,"examples":[{"input":{"x1":500,"x2":500},"output":750}]}

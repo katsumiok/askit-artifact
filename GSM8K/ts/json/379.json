@@ -1,0 +1,1 @@
+{"llm_time":5564222625,"errors":[],"completion":null,"reason":"","result":"Success","id":379,"question":"Rachel bought 23 cookies and Janet gave her 42 cookies. The other day her brother ate 44 of those cookies. How many cookies are left for Rachel?","answer":21,"examples":[{"input":{"x1":23,"x2":42,"x3":44},"output":21}]}

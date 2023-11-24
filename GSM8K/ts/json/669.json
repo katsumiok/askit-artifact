@@ -1,0 +1,1 @@
+{"llm_time":6562237750,"errors":[],"completion":null,"reason":"","result":"Success","id":669,"question":"For every muffin, Svetlana needed 5 tablespoons of flour, 3 tablespoons of sugar, and 0.25 of a tablespoon of salt. How many tablespoons of dry ingredients would Svetlana need to make 16 muffins?","answer":132,"examples":[{"input":{"x1":5,"x2":3,"x3":16},"output":132}]}

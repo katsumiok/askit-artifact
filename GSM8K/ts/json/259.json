@@ -1,0 +1,1 @@
+{"llm_time":18983155458,"errors":["Answer is not in a JSON block"],"completion":null,"reason":"","result":"Success","id":259,"question":"Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than apples. How many fruits are there if Andrea has 52 apples?","answer":168,"examples":[{"input":{"x1":8,"x2":4,"x3":52},"output":168}]}

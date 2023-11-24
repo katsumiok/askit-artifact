@@ -1,0 +1,1 @@
+{"llm_time":47334,"errors":[],"completion":null,"reason":"","result":"Success","id":711,"question":"The ice cream parlor was offering a deal, buy 2 scoops of ice cream, get 1 scoop free.  Each scoop cost $1.50.  If Erin had  $6.00, how many scoops of ice cream should she buy?","answer":6,"examples":[{"input":{"x1":2,"x2":1},"output":6}]}

@@ -1,0 +1,1 @@
+{"llm_time":47209,"errors":[],"completion":null,"reason":"","result":"Success","id":268,"question":"A real estate agent has spent $5 on each newspaper ad and spent $75 on each television ad. He bought 50 newspaper ads and 15 television ads. How much did the real estate agent spend on buying all the ads?","answer":1375,"examples":[{"input":{"x1":50,"x2":15},"output":1375}]}

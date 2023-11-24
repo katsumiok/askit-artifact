@@ -1,0 +1,1 @@
+{"llm_time":7366822000,"errors":[],"completion":null,"reason":"","result":"Success","id":262,"question":"Maddison has 5 boxes with 50 marbles in each box. Then she gets 20 marbles from her friend. How many marbles does she have now?","answer":270,"examples":[{"input":{"x1":5,"x2":50,"x3":20},"output":270}]}

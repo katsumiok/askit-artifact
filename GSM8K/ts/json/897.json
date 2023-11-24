@@ -1,0 +1,1 @@
+{"llm_time":7020312083,"errors":[],"completion":null,"reason":"","result":"Success","id":897,"question":"Joseph had 3 times as many notebooks as Martha. Martha decided she needed more notebooks and then bought 5 more for a total of 7 notebooks. How many more than Joseph does she now have?","answer":1,"examples":[{"input":{"x1":3,"x2":5,"x3":7},"output":1}]}
