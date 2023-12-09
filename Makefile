@@ -8,8 +8,7 @@ GSM8K_TS_FILES := $(wildcard GSM8K/ts/json/*.json) \
 
 CODING_PYTHON_FILES := $(wildcard coding/pyaskit/examples/askit/*.py)
 CODING_TS_FILES := coding/ts-askit/examples/src/askit/top50def.ts.jsonl \
-	$(wildcard coding/ts-askit/examples/src/askit/*.ts) \
-	coding/ts-askit/examples/src/top50def.ts
+	$(wildcard coding/ts-askit/examples/src/askit/*.ts)
 
 HUMANEVAL_FILES := $(wildcard HumanEval/json/HumanEval*.json)
 
