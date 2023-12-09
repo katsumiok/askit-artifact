@@ -55,7 +55,6 @@ clean_all: clean
 	rm -rf GSM8K/ts/dist
 	rm -rf $(GSM8K_PYTHON_FILES) $(GSM8K_TS_FILES)
 	rm -rf $(CODING_PYTHON_FILES) $(CODING_TS_FILES)
-	rm -rf $(OPENAI_EVALS_FILES)
 
 check:
 	@echo "GSM8K_PYTHON_FILES: $(GSM8K_PYTHON_FILES)"
